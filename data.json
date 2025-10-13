@@ -1,0 +1,4039 @@
+{
+  "cities": {
+    "ekaterinburg": {
+      "lines": [
+        {
+          "name": {
+            "en": "First Line",
+            "ru": "Первая линия"
+          },
+          "color": "#2ecc71",
+          "stations": [
+            "Prospekt Kosmonavtov",
+            "Uralmash",
+            "Mashinostroiteley",
+            "Uralskaya",
+            "Dinamo",
+            "Ploshchad 1905 Goda",
+            "Geologicheskaya",
+            "Chkalovskaya",
+            "Botanicheskaya"
+          ]
+        }
+      ],
+      "stations": {
+        "Prospekt Kosmonavtov": {
+          "name": {
+            "en": "Prospekt Kosmonavtov",
+            "ru": "Проспект Космонавтов"
+          },
+          "lat": 56.901667,
+          "lon": 60.614444,
+          "depth": -8
+        },
+        "Uralmash": {
+          "name": {
+            "en": "Uralmash",
+            "ru": "Уралмаш"
+          },
+          "lat": 56.887778,
+          "lon": 60.613611,
+          "depth": -9
+        },
+        "Mashinostroiteley": {
+          "name": {
+            "en": "Mashinostroiteley",
+            "ru": "Машиностроителей"
+          },
+          "lat": 56.877778,
+          "lon": 60.611667,
+          "depth": -10
+        },
+        "Uralskaya": {
+          "name": {
+            "en": "Uralskaya",
+            "ru": "Уральская"
+          },
+          "lat": 56.858056,
+          "lon": 60.601389,
+          "depth": -42
+        },
+        "Dinamo": {
+          "name": {
+            "en": "Dinamo",
+            "ru": "Динамо"
+          },
+          "lat": 56.847778,
+          "lon": 60.6,
+          "depth": -37
+        },
+        "Ploshchad 1905 Goda": {
+          "name": {
+            "en": "Ploshchad 1905 Goda",
+            "ru": "Площадь 1905 года"
+          },
+          "lat": 56.835833,
+          "lon": 60.599722,
+          "depth": -27
+        },
+        "Geologicheskaya": {
+          "name": {
+            "en": "Geologicheskaya",
+            "ru": "Геологическая"
+          },
+          "lat": 56.827222,
+          "lon": 60.603333,
+          "depth": -25
+        },
+        "Chkalovskaya": {
+          "name": {
+            "en": "Chkalovskaya",
+            "ru": "Чкаловская"
+          },
+          "lat": 56.808333,
+          "lon": 60.610278,
+          "depth": -35
+        },
+        "Botanicheskaya": {
+          "name": {
+            "en": "Botanicheskaya",
+            "ru": "Ботаническая"
+          },
+          "lat": 56.797778,
+          "lon": 60.630833,
+          "depth": -12
+        }
+      }
+    },
+    "nizhny_novgorod": {
+      "lines": [
+        {
+          "name": {
+            "en": "Avtozavodskaya Line",
+            "ru": "Автозаводская линия"
+          },
+          "color": "#e31e24",
+          "stations": [
+            "Park Kultury",
+            "Kirovskaya",
+            "Komsomolskaya",
+            "Avtozavodskaya",
+            "Proletarskaya",
+            "Dvigatel Revolyutsii",
+            "Zarechnaya",
+            "Leninskaya",
+            "Chkalovskaya",
+            "Moskovskaya",
+            "Gorkovskaya"
+          ]
+        },
+        {
+          "name": {
+            "en": "Sormovsko-Meshcherskaya Line",
+            "ru": "Сормовско-Мещерская линия"
+          },
+          "color": "#00a2d9",
+          "stations": [
+            "Burevestnik",
+            "Burnakovskaya",
+            "Kanavinskaya",
+            "Strelka",
+            "Moskovskaya"
+          ]
+        }
+      ],
+      "stations": {
+        "Park Kultury": {
+          "name": {
+            "en": "Park Kultury",
+            "ru": "Парк Культуры"
+          },
+          "lat": 56.25,
+          "lon": 43.93,
+          "depth": -12
+        },
+        "Kirovskaya": {
+          "name": {
+            "en": "Kirovskaya",
+            "ru": "Кировская"
+          },
+          "lat": 56.26,
+          "lon": 43.93,
+          "depth": -11
+        },
+        "Komsomolskaya": {
+          "name": {
+            "en": "Komsomolskaya",
+            "ru": "Комсомольская"
+          },
+          "lat": 56.27,
+          "lon": 43.93,
+          "depth": -10
+        },
+        "Avtozavodskaya": {
+          "name": {
+            "en": "Avtozavodskaya",
+            "ru": "Автозаводская"
+          },
+          "lat": 56.28,
+          "lon": 43.93,
+          "depth": -8
+        },
+        "Proletarskaya": {
+          "name": {
+            "en": "Proletarskaya",
+            "ru": "Пролетарская"
+          },
+          "lat": 56.29,
+          "lon": 43.93,
+          "depth": -10
+        },
+        "Dvigatel Revolyutsii": {
+          "name": {
+            "en": "Dvigatel Revolyutsii",
+            "ru": "Двигатель Революции"
+          },
+          "lat": 56.30,
+          "lon": 43.93,
+          "depth": -9
+        },
+        "Zarechnaya": {
+          "name": {
+            "en": "Zarechnaya",
+            "ru": "Заречная"
+          },
+          "lat": 56.31,
+          "lon": 43.93,
+          "depth": -11
+        },
+        "Leninskaya": {
+          "name": {
+            "en": "Leninskaya",
+            "ru": "Ленинская"
+          },
+          "lat": 56.32,
+          "lon": 43.93,
+          "depth": -12
+        },
+        "Chkalovskaya": {
+          "name": {
+            "en": "Chkalovskaya",
+            "ru": "Чкаловская"
+          },
+          "lat": 56.325,
+          "lon": 43.93,
+          "depth": -6
+        },
+        "Moskovskaya": {
+          "name": {
+            "en": "Moskovskaya",
+            "ru": "Московская"
+          },
+          "lat": 56.326,
+          "lon": 43.94,
+          "depth": -10
+        },
+        "Gorkovskaya": {
+          "name": {
+            "en": "Gorkovskaya",
+            "ru": "Горьковская"
+          },
+          "lat": 56.31,
+          "lon": 44.001,
+          "depth": -16
+        },
+        "Burevestnik": {
+          "name": {
+            "en": "Burevestnik",
+            "ru": "Буревестник"
+          },
+          "lat": 56.36,
+          "lon": 43.89,
+          "depth": 0
+        },
+        "Burnakovskaya": {
+          "name": {
+            "en": "Burnakovskaya",
+            "ru": "Бурнаковская"
+          },
+          "lat": 56.35,
+          "lon": 43.91,
+          "depth": -8
+        },
+        "Kanavinskaya": {
+          "name": {
+            "en": "Kanavinskaya",
+            "ru": "Канавинская"
+          },
+          "lat": 56.34,
+          "lon": 43.93,
+          "depth": -10
+        },
+        "Strelka": {
+          "name": {
+            "en": "Strelka",
+            "ru": "Стрелка"
+          },
+          "lat": 56.334976,
+          "lon": 43.949294,
+          "depth": -12
+        }
+      }
+    },
+    "saint_petersburg": {
+      "lines": [
+        {
+          "name": {
+            "en": "Kirovsko-Vyborgskaya",
+            "ru": "Кировско-Выборгская"
+          },
+          "color": "#e31e24",
+          "stations": [
+            "Devyatkino",
+            "Grazhdansky Prospekt",
+            "Akademicheskaya",
+            "Politekhnicheskaya",
+            "Ploschad Muzhestva",
+            "Lesnaya",
+            "Vyborgskaya",
+            "Ploshchad Lenina",
+            "Chernyshevskaya",
+            "Ploshchad Vosstaniya",
+            "Vladimirskaya",
+            "Pushkinskaya",
+            "Tekhnologichesky Institut",
+            "Baltiyskaya",
+            "Narvskaya",
+            "Kirovsky Zavod",
+            "Avtovo",
+            "Leninsky Prospekt",
+            "Prospekt Veteranov"
+          ]
+        },
+        {
+          "name": {
+            "en": "Moskovsko-Petrogradskaya",
+            "ru": "Московско-Петроградская"
+          },
+          "color": "#00a2d9",
+          "stations": [
+            "Parnas",
+            "Prospect Prosvesheniya",
+            "Ozerki",
+            "Udelnaya",
+            "Pionerskaya",
+            "Chyornaya Rechka",
+            "Petrogradskaya",
+            "Gorkovskaya",
+            "Nevsky Prospekt",
+            "Sennaya Ploschad",
+            "Tekhnologichesky Institut",
+            "Frunzenskaya",
+            "Moskovskiye Vorota",
+            "Elektrosila",
+            "Park Pobedy",
+            "Moskovskaya",
+            "Zvyozdnaya",
+            "Kupchino"
+          ]
+        },
+        {
+          "name": {
+            "en": "Nevsko-Vasileostrovskaya",
+            "ru": "Невско-Василеостровская"
+          },
+          "color": "#2ecc71",
+          "stations": [
+            "Begovaya",
+            "Zenit",
+            "Primorskaya",
+            "Vasileostrovskaya",
+            "Gostiny Dvor",
+            "Mayakovskaya",
+            "Ploshchad Alexandra Nevskogo I",
+            "Yelizarovskaya",
+            "Lomonosovskaya",
+            "Proletarskaya",
+            "Obukhovo",
+            "Rybatskoye"
+          ]
+        },
+        {
+          "name": {
+            "en": "Pravoberezhnaya",
+            "ru": "Правобережная"
+          },
+          "color": "#f39c12",
+          "stations": [
+            "Gorny Institut",
+            "Spasskaya",
+            "Dostoevskaya",
+            "Ligovsky Prospekt",
+            "Ploshchad Alexandra Nevskogo II",
+            "Novocherkasskaya",
+            "Ladozhskaya",
+            "Prospekt Bolshevikov",
+            "Ulitsa Dybenko"
+          ]
+        },
+        {
+          "name": {
+            "en": "Frunzensko-Primorskaya",
+            "ru": "Фрунзенско-Приморская"
+          },
+          "color": "#8e44ad",
+          "stations": [
+            "Komendantsky Prospekt",
+            "Staraya Derevnya",
+            "Krestovsky Ostrov",
+            "Chkalovskaya",
+            "Sportivnaya",
+            "Admiralteyskaya",
+            "Sadovaya",
+            "Zvenigorodskaya",
+            "Obvodny Kanal",
+            "Volkovskaya",
+            "Bukharestskaya",
+            "Mezhdunarodnaya",
+            "Prospekt Slavy",
+            "Dunayskaya",
+            "Shushary"
+          ]
+        }
+      ],
+      "stations": {
+        "Devyatkino": {
+          "name": {
+            "en": "Devyatkino",
+            "ru": "Девяткино"
+          },
+          "lat": 60.0503,
+          "lon": 30.4431,
+          "depth": 0
+        },
+        "Grazhdansky Prospekt": {
+          "name": {
+            "en": "Grazhdansky Prospekt",
+            "ru": "Гражданский проспект"
+          },
+          "lat": 60.0352,
+          "lon": 30.4182,
+          "depth": -64
+        },
+        "Akademicheskaya": {
+          "name": {
+            "en": "Akademicheskaya",
+            "ru": "Академическая"
+          },
+          "lat": 60.0128,
+          "lon": 30.3961,
+          "depth": -64
+        },
+        "Politekhnicheskaya": {
+          "name": {
+            "en": "Politekhnicheskaya",
+            "ru": "Политехническая"
+          },
+          "lat": 60.0089,
+          "lon": 30.3709,
+          "depth": -65
+        },
+        "Ploschad Muzhestva": {
+          "name": {
+            "en": "Ploschad Muzhestva",
+            "ru": "Площадь Мужества"
+          },
+          "lat": 59.9962,
+          "lon": 30.3662,
+          "depth": -67
+        },
+        "Lesnaya": {
+          "name": {
+            "en": "Lesnaya",
+            "ru": "Лесная"
+          },
+          "lat": 59.9847,
+          "lon": 30.3442,
+          "depth": -64
+        },
+        "Vyborgskaya": {
+          "name": {
+            "en": "Vyborgskaya",
+            "ru": "Выборгская"
+          },
+          "lat": 59.9712,
+          "lon": 30.3473,
+          "depth": -67
+        },
+        "Ploshchad Lenina": {
+          "name": {
+            "en": "Ploshchad Lenina",
+            "ru": "Площадь Ленина"
+          },
+          "lat": 59.9555,
+          "lon": 30.3556,
+          "depth": -71
+        },
+        "Chernyshevskaya": {
+          "name": {
+            "en": "Chernyshevskaya",
+            "ru": "Чернышевская"
+          },
+          "lat": 59.9445,
+          "lon": 30.3599,
+          "depth": -70
+        },
+        "Ploshchad Vosstaniya": {
+          "name": {
+            "en": "Ploshchad Vosstaniya",
+            "ru": "Площадь Восстания"
+          },
+          "lat": 59.9314,
+          "lon": 30.3607,
+          "depth": -58
+        },
+        "Vladimirskaya": {
+          "name": {
+            "en": "Vladimirskaya",
+            "ru": "Владимирская"
+          },
+          "lat": 59.9275,
+          "lon": 30.3478,
+          "depth": -55
+        },
+        "Pushkinskaya": {
+          "name": {
+            "en": "Pushkinskaya",
+            "ru": "Пушкинская"
+          },
+          "lat": 59.9207,
+          "lon": 30.3297,
+          "depth": -57
+        },
+        "Tekhnologichesky Institut": {
+          "name": {
+            "en": "Tekhnologichesky Institut",
+            "ru": "Технологический институт"
+          },
+          "lat": 59.9166,
+          "lon": 30.3185,
+          "depth": -60
+        },
+        "Baltiyskaya": {
+          "name": {
+            "en": "Baltiyskaya",
+            "ru": "Балтийская"
+          },
+          "lat": 59.9072,
+          "lon": 30.2995,
+          "depth": -57
+        },
+        "Narvskaya": {
+          "name": {
+            "en": "Narvskaya",
+            "ru": "Нарвская"
+          },
+          "lat": 59.9011,
+          "lon": 30.2749,
+          "depth": -52
+        },
+        "Kirovsky Zavod": {
+          "name": {
+            "en": "Kirovsky Zavod",
+            "ru": "Кировский завод"
+          },
+          "lat": 59.8797,
+          "lon": 30.2619,
+          "depth": -50
+        },
+        "Avtovo": {
+          "name": {
+            "en": "Avtovo",
+            "ru": "Автово"
+          },
+          "lat": 59.8673,
+          "lon": 30.2614,
+          "depth": -12
+        },
+        "Leninsky Prospekt": {
+          "name": {
+            "en": "Leninsky Prospekt",
+            "ru": "Ленинский проспект"
+          },
+          "lat": 59.8519,
+          "lon": 30.2683,
+          "depth": -8
+        },
+        "Prospekt Veteranov": {
+          "name": {
+            "en": "Prospekt Veteranov",
+            "ru": "Проспект Ветеранов"
+          },
+          "lat": 59.8429,
+          "lon": 30.2507,
+          "depth": -8
+        },
+        "Parnas": {
+          "name": {
+            "en": "Parnas",
+            "ru": "Парнас"
+          },
+          "lat": 60.067,
+          "lon": 30.334,
+          "depth": 0
+        },
+        "Prospect Prosvesheniya": {
+          "name": {
+            "en": "Prospect Prosvesheniya",
+            "ru": "Проспект Просвещения"
+          },
+          "lat": 60.0512,
+          "lon": 30.3325,
+          "depth": -65
+        },
+        "Ozerki": {
+          "name": {
+            "en": "Ozerki",
+            "ru": "Озерки"
+          },
+          "lat": 60.037,
+          "lon": 30.3214,
+          "depth": -59
+        },
+        "Udelnaya": {
+          "name": {
+            "en": "Udelnaya",
+            "ru": "Удельная"
+          },
+          "lat": 60.0167,
+          "lon": 30.3153,
+          "depth": -64
+        },
+        "Pionerskaya": {
+          "name": {
+            "en": "Pionerskaya",
+            "ru": "Пионерская"
+          },
+          "lat": 60.0025,
+          "lon": 30.2969,
+          "depth": -67
+        },
+        "Chyornaya Rechka": {
+          "name": {
+            "en": "Chyornaya Rechka",
+            "ru": "Чёрная речка"
+          },
+          "lat": 59.9855,
+          "lon": 30.3011,
+          "depth": -67
+        },
+        "Petrogradskaya": {
+          "name": {
+            "en": "Petrogradskaya",
+            "ru": "Петроградская"
+          },
+          "lat": 59.9663,
+          "lon": 30.3113,
+          "depth": -53
+        },
+        "Gorkovskaya": {
+          "name": {
+            "en": "Gorkovskaya",
+            "ru": "Горьковская"
+          },
+          "lat": 59.9561,
+          "lon": 30.3189,
+          "depth": -53
+        },
+        "Nevsky Prospekt": {
+          "name": {
+            "en": "Nevsky Prospekt",
+            "ru": "Невский проспект"
+          },
+          "lat": 59.9355,
+          "lon": 30.3271,
+          "depth": -63
+        },
+        "Sennaya Ploschad": {
+          "name": {
+            "en": "Sennaya Ploschad",
+            "ru": "Сенная площадь"
+          },
+          "lat": 59.927,
+          "lon": 30.3206,
+          "depth": -55
+        },
+        "Frunzenskaya": {
+          "name": {
+            "en": "Frunzenskaya",
+            "ru": "Фрунзенская"
+          },
+          "lat": 59.9063,
+          "lon": 30.3175,
+          "depth": -39
+        },
+        "Moskovskiye Vorota": {
+          "name": {
+            "en": "Moskovskiye Vorota",
+            "ru": "Московские ворота"
+          },
+          "lat": 59.8918,
+          "lon": 30.3176,
+          "depth": -35
+        },
+        "Elektrosila": {
+          "name": {
+            "en": "Elektrosila",
+            "ru": "Электросила"
+          },
+          "lat": 59.8791,
+          "lon": 30.3187,
+          "depth": -35
+        },
+        "Park Pobedy": {
+          "name": {
+            "en": "Park Pobedy",
+            "ru": "Парк Победы"
+          },
+          "lat": 59.8663,
+          "lon": 30.3217,
+          "depth": -35
+        },
+        "Moskovskaya": {
+          "name": {
+            "en": "Moskovskaya",
+            "ru": "Московская"
+          },
+          "lat": 59.8517,
+          "lon": 30.3222,
+          "depth": -29
+        },
+        "Zvyozdnaya": {
+          "name": {
+            "en": "Zvyozdnaya",
+            "ru": "Звёздная"
+          },
+          "lat": 59.8331,
+          "lon": 30.3499,
+          "depth": -22
+        },
+        "Kupchino": {
+          "name": {
+            "en": "Kupchino",
+            "ru": "Купчино"
+          },
+          "lat": 59.8297,
+          "lon": 30.3753,
+          "depth": 0
+        },
+        "Begovaya": {
+          "name": {
+            "en": "Begovaya",
+            "ru": "Беговая"
+          },
+          "lat": 59.9871,
+          "lon": 30.2029,
+          "depth": -17
+        },
+        "Zenit": {
+          "name": {
+            "en": "Zenit",
+            "ru": "Зенит"
+          },
+          "lat": 59.9727,
+          "lon": 30.2356,
+          "depth": -23
+        },
+        "Primorskaya": {
+          "name": {
+            "en": "Primorskaya",
+            "ru": "Приморская"
+          },
+          "lat": 59.9485,
+          "lon": 30.2345,
+          "depth": -71
+        },
+        "Vasileostrovskaya": {
+          "name": {
+            "en": "Vasileostrovskaya",
+            "ru": "Василеостровская"
+          },
+          "lat": 59.9428,
+          "lon": 30.2781,
+          "depth": -64
+        },
+        "Gostiny Dvor": {
+          "name": {
+            "en": "Gostiny Dvor",
+            "ru": "Гостиный двор"
+          },
+          "lat": 59.9331,
+          "lon": 30.3331,
+          "depth": -56
+        },
+        "Mayakovskaya": {
+          "name": {
+            "en": "Mayakovskaya",
+            "ru": "Маяковская"
+          },
+          "lat": 59.9315,
+          "lon": 30.3547,
+          "depth": -51
+        },
+        "Ploshchad Alexandra Nevskogo I": {
+          "name": {
+            "en": "Ploshchad Alexandra Nevskogo I",
+            "ru": "Площадь Александра Невского 1"
+          },
+          "lat": 59.9237,
+          "lon": 30.3833,
+          "depth": -54
+        },
+        "Yelizarovskaya": {
+          "name": {
+            "en": "Yelizarovskaya",
+            "ru": "Елизаровская"
+          },
+          "lat": 59.8967,
+          "lon": 30.4236,
+          "depth": -62
+        },
+        "Lomonosovskaya": {
+          "name": {
+            "en": "Lomonosovskaya",
+            "ru": "Ломоносовская"
+          },
+          "lat": 59.8956,
+          "lon": 30.4425,
+          "depth": -65
+        },
+        "Proletarskaya": {
+          "name": {
+            "en": "Proletarskaya",
+            "ru": "Пролетарская"
+          },
+          "lat": 59.8653,
+          "lon": 30.4702,
+          "depth": -72
+        },
+        "Obukhovo": {
+          "name": {
+            "en": "Obukhovo",
+            "ru": "Обухово"
+          },
+          "lat": 59.8487,
+          "lon": 30.4579,
+          "depth": -62
+        },
+        "Rybatskoye": {
+          "name": {
+            "en": "Rybatskoye",
+            "ru": "Рыбацкое"
+          },
+          "lat": 59.8309,
+          "lon": 30.5005,
+          "depth": 0
+        },
+        "Gorny Institut": {
+          "name": {
+            "en": "Gorny Institut",
+            "ru": "Горный институт"
+          },
+          "lat": 59.9731,
+          "lon": 30.3156,
+          "depth": -70
+        },
+        "Spasskaya": {
+          "name": {
+            "en": "Spasskaya",
+            "ru": "Спасская"
+          },
+          "lat": 59.9269,
+          "lon": 30.3195,
+          "depth": -60
+        },
+        "Dostoevskaya": {
+          "name": {
+            "en": "Dostoevskaya",
+            "ru": "Достоевская"
+          },
+          "lat": 59.9281,
+          "lon": 30.346,
+          "depth": -62
+        },
+        "Ligovsky Prospekt": {
+          "name": {
+            "en": "Ligovsky Prospekt",
+            "ru": "Лиговский проспект"
+          },
+          "lat": 59.9207,
+          "lon": 30.3553,
+          "depth": -66
+        },
+        "Ploshchad Alexandra Nevskogo II": {
+          "name": {
+            "en": "Ploshchad Alexandra Nevskogo II",
+            "ru": "Площадь Александра Невского 2"
+          },
+          "lat": 59.9241,
+          "lon": 30.3849,
+          "depth": -60
+        },
+        "Novocherkasskaya": {
+          "name": {
+            "en": "Novocherkasskaya",
+            "ru": "Новочеркасская"
+          },
+          "lat": 59.9291,
+          "lon": 30.4119,
+          "depth": -61
+        },
+        "Ladozhskaya": {
+          "name": {
+            "en": "Ladozhskaya",
+            "ru": "Ладожская"
+          },
+          "lat": 59.9322,
+          "lon": 30.4393,
+          "depth": -61
+        },
+        "Prospekt Bolshevikov": {
+          "name": {
+            "en": "Prospekt Bolshevikov",
+            "ru": "Проспект Большевиков"
+          },
+          "lat": 59.9199,
+          "lon": 30.4669,
+          "depth": -68
+        },
+        "Ulitsa Dybenko": {
+          "name": {
+            "en": "Ulitsa Dybenko",
+            "ru": "Улица Дыбенко"
+          },
+          "lat": 59.9077,
+          "lon": 30.4833,
+          "depth": -61
+        },
+        "Komendantsky Prospekt": {
+          "name": {
+            "en": "Komendantsky Prospekt",
+            "ru": "Комендантский проспект"
+          },
+          "lat": 60.0085,
+          "lon": 30.259,
+          "depth": -75
+        },
+        "Staraya Derevnya": {
+          "name": {
+            "en": "Staraya Derevnya",
+            "ru": "Старая Деревня"
+          },
+          "lat": 59.9896,
+          "lon": 30.255,
+          "depth": -61
+        },
+        "Krestovsky Ostrov": {
+          "name": {
+            "en": "Krestovsky Ostrov",
+            "ru": "Крестовский остров"
+          },
+          "lat": 59.9717,
+          "lon": 30.2594,
+          "depth": -49
+        },
+        "Chkalovskaya": {
+          "name": {
+            "en": "Chkalovskaya",
+            "ru": "Чкаловская"
+          },
+          "lat": 59.961,
+          "lon": 30.2919,
+          "depth": -60
+        },
+        "Sportivnaya": {
+          "name": {
+            "en": "Sportivnaya",
+            "ru": "Спортивная"
+          },
+          "lat": 59.9522,
+          "lon": 30.2912,
+          "depth": -64
+        },
+        "Admiralteyskaya": {
+          "name": {
+            "en": "Admiralteyskaya",
+            "ru": "Адмиралтейская"
+          },
+          "lat": 59.9358,
+          "lon": 30.3149,
+          "depth": -86
+        },
+        "Sadovaya": {
+          "name": {
+            "en": "Sadovaya",
+            "ru": "Садовая"
+          },
+          "lat": 59.9267,
+          "lon": 30.3172,
+          "depth": -71
+        },
+        "Zvenigorodskaya": {
+          "name": {
+            "en": "Zvenigorodskaya",
+            "ru": "Звенигородская"
+          },
+          "lat": 59.9223,
+          "lon": 30.3356,
+          "depth": -57
+        },
+        "Obvodny Kanal": {
+          "name": {
+            "en": "Obvodny Kanal",
+            "ru": "Обводный канал"
+          },
+          "lat": 59.9146,
+          "lon": 30.3495,
+          "depth": -61
+        },
+        "Volkovskaya": {
+          "name": {
+            "en": "Volkovskaya",
+            "ru": "Волковская"
+          },
+          "lat": 59.8959,
+          "lon": 30.3579,
+          "depth": -61
+        },
+        "Bukharestskaya": {
+          "name": {
+            "en": "Bukharestskaya",
+            "ru": "Бухарестская"
+          },
+          "lat": 59.8833,
+          "lon": 30.3692,
+          "depth": -65
+        },
+        "Mezhdunarodnaya": {
+          "name": {
+            "en": "Mezhdunarodnaya",
+            "ru": "Международная"
+          },
+          "lat": 59.8701,
+          "lon": 30.3788,
+          "depth": -65
+        },
+        "Prospekt Slavy": {
+          "name": {
+            "en": "Prospekt Slavy",
+            "ru": "Проспект Славы"
+          },
+          "lat": 59.8571,
+          "lon": 30.3981,
+          "depth": -59
+        },
+        "Dunayskaya": {
+          "name": {
+            "en": "Dunayskaya",
+            "ru": "Дунайская"
+          },
+          "lat": 59.8403,
+          "lon": 30.4124,
+          "depth": -17
+        },
+        "Shushary": {
+          "name": {
+            "en": "Shushary",
+            "ru": "Шушары"
+          },
+          "lat": 59.8205,
+          "lon": 30.3782,
+          "depth": 0
+        }
+      }
+    },
+    "moscow": {
+      "lines": [
+        {
+          "name": {
+            "en": "Sokolnicheskaya",
+            "ru": "Сокольническая"
+          },
+          "color": "#e60012",
+          "stations": [
+            "Bulvar Rokossovskogo",
+            "Cherkizovskaya",
+            "Preobrazhenskaya Ploshchad",
+            "Sokolniki",
+            "Krasnoselskaya",
+            "Komsomolskaya",
+            "Krasnye Vorota",
+            "Chistye Prudy",
+            "Lubyanka",
+            "Okhotny Ryad",
+            "Biblioteka Imeni Lenina",
+            "Kropotkinskaya",
+            "Park Kultury",
+            "Frunzenskaya",
+            "Sportivnaya",
+            "Vorobyovy Gory",
+            "Universitet",
+            "Prospekt Vernadskogo",
+            "Yugo-Zapadnaya",
+            "Troparovo",
+            "Rumyantsevo",
+            "Salaryevo",
+            "Filatov Lug",
+            "Prokshino",
+            "Olkhovaya",
+            "Novomoskovskaya",
+            "Potapovo"
+          ]
+        },
+        {
+          "name": {
+            "en": "Zamoskvoretskaya",
+            "ru": "Замоскворецкая"
+          },
+          "color": "#009843",
+          "stations": [
+            "Khovrino",
+            "Belomorskaya",
+            "Rechnoy Vokzal",
+            "Vodny Stadion",
+            "Voykovskaya",
+            "Sokol",
+            "Aeroport",
+            "Dinamo",
+            "Belorusskaya",
+            "Mayakovskaya",
+            "Tverskaya",
+            "Teatralnaya",
+            "Novokuznetskaya",
+            "Paveletskaya",
+            "Avtozavodskaya",
+            "Tekhnopark",
+            "Kolomenskaya",
+            "Kashirskaya",
+            "Kantemirovskaya",
+            "Tsaritsyno",
+            "Orekhovo",
+            "Domodedovskaya",
+            "Krasnogvardeyskaya",
+            "Alma-Atinskaya"
+          ]
+        },
+        {
+          "name": {
+            "en": "Arbatsko-Pokrovskaya",
+            "ru": "Арбатско-Покровская"
+          },
+          "color": "#0072bc",
+          "stations": [
+            "Pyatnitskoye Shosse",
+            "Mitino",
+            "Volokolamskaya",
+            "Myakinino",
+            "Strogino",
+            "Krylatskoye",
+            "Molodyozhnaya",
+            "Kuntsevskaya",
+            "Slavyansky Bulvar",
+            "Park Pobedy",
+            "Kiyevskaya",
+            "Smolenskaya",
+            "Arbatskaya",
+            "Ploshchad Revolyutsii",
+            "Kurskaya",
+            "Baumanskaya",
+            "Elektrozavodskaya",
+            "Semyonovskaya",
+            "Partizanskaya",
+            "Izmaylovskaya",
+            "Pervomayskaya",
+            "Shchyolkovskaya"
+          ]
+        },
+        {
+          "name": {
+            "en": "Filevskaya",
+            "ru": "Филёвская"
+          },
+          "color": "#0072bc",
+          "stations": [
+            "Kuntsevskaya",
+            "Pionerskaya",
+            "Filevsky Park",
+            "Bagrationovskaya",
+            "Fili",
+            "Kutuzovskaya",
+            "Studencheskaya",
+            "Kiyevskaya",
+            "Delovoy Tsentr",
+            "Moskva-Siti",
+            "Delovoy Tsentr",
+            "Kiyevskaya",
+            "Smolenskaya",
+            "Arbatskaya",
+            "Aleksandrovsky Sad"
+          ]
+        },
+        {
+          "name": {
+            "en": "Koltsevaya",
+            "ru": "Кольцевая"
+          },
+          "color": "#8d5e2a",
+          "stations": [
+            "Park Kultury",
+            "Oktyabrskaya",
+            "Dobryninskaya",
+            "Paveletskaya",
+            "Taganskaya",
+            "Kurskaya",
+            "Komsomolskaya",
+            "Prospekt Mira",
+            "Novoslobodskaya",
+            "Belorusskaya",
+            "Krasnopresnenskaya",
+            "Kiyevskaya",
+            "Park Kultury"
+          ]
+        },
+        {
+          "name": {
+            "en": "Kaluzhsko-Rizhskaya",
+            "ru": "Калужско-Рижская"
+          },
+          "color": "#f58220",
+          "stations": [
+            "Medvedkovo",
+            "Babushkinskaya",
+            "Sviblovo",
+            "Botanichesky Sad",
+            "VDNKh",
+            "Alekseevskaya",
+            "Rizhskaya",
+            "Prospekt Mira",
+            "Sukharevskaya",
+            "Turgenevskaya",
+            "Kitay-Gorod",
+            "Tretyakovskaya",
+            "Oktyabrskaya",
+            "Shabolovskaya",
+            "Leninsky Prospekt",
+            "Akademicheskaya",
+            "Profsoyuznaya",
+            "Novye Cheremushki",
+            "Kaluzhskaya",
+            "Belyaevo",
+            "Konkovo",
+            "Tyoply Stan",
+            "Yasenevo",
+            "Novoyasenevskaya"
+          ]
+        },
+        {
+          "name": {
+            "en": "Tagansko-Krasnopresnenskaya",
+            "ru": "Таганско-Краснопресненская"
+          },
+          "color": "#965a9d",
+          "stations": [
+            "Planernaya",
+            "Skhodnenskaya",
+            "Tushinskaya",
+            "Spartak",
+            "Shchukinskaya",
+            "Oktyabrskoye Pole",
+            "Polezhaevskaya",
+            "Begovaya",
+            "Ulitsa 1905 Goda",
+            "Barrikadnaya",
+            "Pushkinskaya",
+            "Kuznetsky Most",
+            "Kitay-Gorod",
+            "Taganskaya",
+            "Proletarskaya",
+            "Volgogradsky Prospekt",
+            "Tekstilshchiki",
+            "Kuzminki",
+            "Ryazansky Prospekt",
+            "Vykhino",
+            "Lermontovsky Prospekt",
+            "Zhulebino",
+            "Kotelniki"
+          ]
+        },
+        {
+          "name": {
+            "en": "Kalininskaya",
+            "ru": "Калининская"
+          },
+          "color": "#ffcd00",
+          "stations": [
+            "Tretyakovskaya",
+            "Marksistskaya",
+            "Ploshchad Ilyicha",
+            "Aviamotornaya",
+            "Shosse Entuziastov",
+            "Perovo",
+            "Novogireyevo",
+            "Novokosino"
+          ]
+        },
+        {
+          "name": {
+            "en": "Solntsevskaya",
+            "ru": "Солнцевская"
+          },
+          "color": "#ffcd00",
+          "stations": [
+            "Delovoy Tsentr",
+            "Park Pobedy",
+            "Minskaya",
+            "Lomonosovsky Prospekt",
+            "Ramenki",
+            "Michurinsky Prospekt",
+            "Ozyornaya",
+            "Govorovo",
+            "Solntsevo",
+            "Borovskoye Shosse",
+            "Novoperedelkino",
+            "Rasskazovka",
+            "Pykhtino",
+            "Aeroport Vnukovo"
+          ]
+        },
+        {
+          "name": {
+            "en": "Serpukhovsko-Timiryazevskaya",
+            "ru": "Серпуховско-Тимирязевская"
+          },
+          "color": "#909195",
+          "stations": [
+            "Altufyevo",
+            "Bibirevo",
+            "Otradnoye",
+            "Vladykino",
+            "Petrovsko-Razumovskaya",
+            "Timiryazevskaya",
+            "Dmitrovskaya",
+            "Savyalovskaya",
+            "Mendeleyevskaya",
+            "Tsvetnoy Bulvar",
+            "Chekhovskaya",
+            "Borovitskaya",
+            "Polyanka",
+            "Serpukhovskaya",
+            "Tulskaya",
+            "Nagatinskaya",
+            "Nagornaya",
+            "Nakhimovsky Prospekt",
+            "Sevastopolskaya",
+            "Chertanovskaya",
+            "Yuzhnaya",
+            "Prazhskaya",
+            "Ulitsa Akademika Yangelya",
+            "Annino",
+            "Bulvar Dmitriya Donskogo"
+          ]
+        },
+        {
+          "name": {
+            "en": "Lyublinsko-Dmitrovskaya",
+            "ru": "Люблинско-Дмитровская"
+          },
+          "color": "#66c448",
+          "stations": [
+            "Fiztekh",
+            "Lianozovo",
+            "Yakhromskaya",
+            "Seligerskaya",
+            "Verkhnie Likhobory",
+            "Okruzhnaya",
+            "Petrovsko-Razumovskaya",
+            "Fonvizinskaya",
+            "Butyrskaya",
+            "Maryina Roshcha",
+            "Dostoyevskaya",
+            "Trubnaya",
+            "Sretensky Bulvar",
+            "Chkalovskaya",
+            "Rimskaya",
+            "Krestyanskaya Zastava",
+            "Dubrovka",
+            "Kozhukhovskaya",
+            "Pechatniki",
+            "Volzhskaya",
+            "Lyublino",
+            "Bratislavskaya",
+            "Maryino",
+            "Borisovo",
+            "Shipilovskaya",
+            "Zyablikovo"
+          ]
+        },
+        {
+          "name": {
+            "en": "Bolshaya Koltsevaya",
+            "ru": "Большая кольцевая линия"
+          },
+          "color": "#5a49a4",
+          "stations": [
+            "Savyalovskaya",
+            "Petrovsky Park",
+            "CSKA",
+            "Khoroshyovskaya",
+            "Narodnogo Opolcheniya",
+            "Myovniki",
+            "Terekhovo",
+            "Kuntsevskaya",
+            "Davydkovo",
+            "Aminyevskaya",
+            "Michurinsky Prospekt",
+            "Prospekt Vernadskogo",
+            "Novatorskaya",
+            "Vorontsovskaya",
+            "Zyuzino",
+            "Kakhovskaya",
+            "Varshavskaya",
+            "Kashirskaya",
+            "Klenovy Bulvar",
+            "Nagatinsky Zaton",
+            "Pechatniki",
+            "Tekstilshchiki",
+            "Nizhegorodskaya",
+            "Aviamotornaya",
+            "Lefortovo",
+            "Elektrozavodskaya",
+            "Sokolniki",
+            "Rizhskaya",
+            "Maryina Roshcha",
+            "Savyalovskaya"
+          ]
+        },
+        {
+          "name": {
+            "en": "Butovskaya",
+            "ru": "Бутовская"
+          },
+          "color": "#00b259",
+          "stations": [
+            "Bitsevsky Park",
+            "Lesoparkovaya",
+            "Ulitsa Starokachalovskaya",
+            "Ulitsa Skobelevskaya",
+            "Bulvar Admirala Ushakova",
+            "Ulitsa Gorchakova",
+            "Buninskaya Alleya"
+          ]
+        },
+        {
+          "name": {
+            "en": "Nekrasovskaya",
+            "ru": "Некрасовская"
+          },
+          "color": "#e487a9",
+          "stations": [
+            "Nizhegorodskaya",
+            "Stakhanovskaya",
+            "Okskaya",
+            "Yugo-Vostochnaya",
+            "Kosino",
+            "Ulitsa Dmitriyevskogo",
+            "Lukhmanovskaya",
+            "Nekrasovka"
+          ]
+        },
+        {
+          "name": {
+            "en": "Troitskaya",
+            "ru": "Троицкая"
+          },
+          "color": "#00b259",
+          "stations": [
+            "ZIL",
+            "Krymskaya",
+            "Akademicheskaya",
+            "Vavilovskaya",
+            "Novatorskaya",
+            "Universitet Druzhby Narodov",
+            "Generala Tyuleneva",
+            "Tyutchevskaya",
+            "Kornilovskaya",
+            "Kommunarka",
+            "Novomoskovskaya"
+          ]
+        }
+      ],
+      "stations": {
+        "Bulvar Rokossovskogo": {
+          "name": {
+            "en": "Bulvar Rokossovskogo",
+            "ru": "Бульвар Рокоссовского"
+          },
+          "lat": 55.814722,
+          "lon": 37.734167,
+          "depth": -8
+        },
+        "Cherkizovskaya": {
+          "name": {
+            "en": "Cherkizovskaya",
+            "ru": "Черкизовская"
+          },
+          "lat": 55.803889,
+          "lon": 37.744722,
+          "depth": -9
+        },
+        "Preobrazhenskaya Ploshchad": {
+          "name": {
+            "en": "Preobrazhenskaya Ploshchad",
+            "ru": "Преображенская площадь"
+          },
+          "lat": 55.796389,
+          "lon": 37.715,
+          "depth": -8
+        },
+        "Sokolniki": {
+          "name": {
+            "en": "Sokolniki",
+            "ru": "Сокольники"
+          },
+          "lat": 55.788889,
+          "lon": 37.680278,
+          "depth": -9
+        },
+        "Krasnoselskaya": {
+          "name": {
+            "en": "Krasnoselskaya",
+            "ru": "Красносельская"
+          },
+          "lat": 55.78,
+          "lon": 37.667222,
+          "depth": -8
+        },
+        "Komsomolskaya": {
+          "name": {
+            "en": "Komsomolskaya",
+            "ru": "Комсомольская"
+          },
+          "lat": 55.775278,
+          "lon": 37.656111,
+          "depth": -8
+        },
+        "Krasnye Vorota": {
+          "name": {
+            "en": "Krasnye Vorota",
+            "ru": "Красные Ворота"
+          },
+          "lat": 55.768889,
+          "lon": 37.648611,
+          "depth": -31
+        },
+        "Chistye Prudy": {
+          "name": {
+            "en": "Chistye Prudy",
+            "ru": "Чистые пруды"
+          },
+          "lat": 55.765833,
+          "lon": 37.638889,
+          "depth": -35
+        },
+        "Lubyanka": {
+          "name": {
+            "en": "Lubyanka",
+            "ru": "Лубянка"
+          },
+          "lat": 55.759722,
+          "lon": 37.627222,
+          "depth": -32.5
+        },
+        "Okhotny Ryad": {
+          "name": {
+            "en": "Okhotny Ryad",
+            "ru": "Охотный ряд"
+          },
+          "lat": 55.757778,
+          "lon": 37.616667,
+          "depth": -15
+        },
+        "Biblioteka Imeni Lenina": {
+          "name": {
+            "en": "Biblioteka Imeni Lenina",
+            "ru": "Библиотека имени Ленина"
+          },
+          "lat": 55.751111,
+          "lon": 37.61,
+          "depth": -12
+        },
+        "Kropotkinskaya": {
+          "name": {
+            "en": "Kropotkinskaya",
+            "ru": "Кропоткинская"
+          },
+          "lat": 55.745278,
+          "lon": 37.603611,
+          "depth": -13
+        },
+        "Park Kultury": {
+          "name": {
+            "en": "Park Kultury",
+            "ru": "Парк культуры"
+          },
+          "lat": 55.735833,
+          "lon": 37.594167,
+          "depth": -10.5
+        },
+        "Frunzenskaya": {
+          "name": {
+            "en": "Frunzenskaya",
+            "ru": "Фрунзенская"
+          },
+          "lat": 55.726667,
+          "lon": 37.578611,
+          "depth": -42
+        },
+        "Sportivnaya": {
+          "name": {
+            "en": "Sportivnaya",
+            "ru": "Спортивная"
+          },
+          "lat": 55.723333,
+          "lon": 37.563889,
+          "depth": -42
+        },
+        "Vorobyovy Gory": {
+          "name": {
+            "en": "Vorobyovy Gory",
+            "ru": "Воробьёвы горы"
+          },
+          "lat": 55.710278,
+          "lon": 37.559167,
+          "depth": 10
+        },
+        "Universitet": {
+          "name": {
+            "en": "Universitet",
+            "ru": "Университет"
+          },
+          "lat": 55.6925,
+          "lon": 37.533333,
+          "depth": -26.5
+        },
+        "Prospekt Vernadskogo": {
+          "name": {
+            "en": "Prospekt Vernadskogo",
+            "ru": "Проспект Вернадского"
+          },
+          "lat": 55.677222,
+          "lon": 37.506111,
+          "depth": -8
+        },
+        "Yugo-Zapadnaya": {
+          "name": {
+            "en": "Yugo-Zapadnaya",
+            "ru": "Юго-Западная"
+          },
+          "lat": 55.663611,
+          "lon": 37.483333,
+          "depth": -8
+        },
+        "Troparovo": {
+          "name": {
+            "en": "Troparovo",
+            "ru": "Тропарёво"
+          },
+          "lat": 55.645833,
+          "lon": 37.4725,
+          "depth": -12
+        },
+        "Rumyantsevo": {
+          "name": {
+            "en": "Rumyantsevo",
+            "ru": "Румянцево"
+          },
+          "lat": 55.633056,
+          "lon": 37.442,
+          "depth": -12
+        },
+        "Salaryevo": {
+          "name": {
+            "en": "Salaryevo",
+            "ru": "Саларьево"
+          },
+          "lat": 55.623611,
+          "lon": 37.425278,
+          "depth": -12
+        },
+        "Filatov Lug": {
+          "name": {
+            "en": "Filatov Lug",
+            "ru": "Филатов Луг"
+          },
+          "lat": 55.601389,
+          "lon": 37.407778,
+          "depth": 0
+        },
+        "Prokshino": {
+          "name": {
+            "en": "Prokshino",
+            "ru": "Прокшино"
+          },
+          "lat": 55.586111,
+          "lon": 37.433889,
+          "depth": 0
+        },
+        "Olkhovaya": {
+          "name": {
+            "en": "Olkhovaya",
+            "ru": "Ольховая"
+          },
+          "lat": 55.568611,
+          "lon": 37.459444,
+          "depth": -12
+        },
+        "Novomoskovskaya": {
+          "name": {
+            "en": "Novomoskovskaya",
+            "ru": "Новомосковская"
+          },
+          "lat": 55.560074,
+          "lon": 37.468650,
+          "depth": -8
+        },
+        "Potapovo": {
+          "name": {
+            "en": "Potapovo",
+            "ru": "Потапово"
+          },
+          "lat": 55.553056,
+          "lon": 37.493056,
+          "depth": 0
+        },
+        "Khovrino": {
+          "name": {
+            "en": "Khovrino",
+            "ru": "Ховрино"
+          },
+          "lat": 55.878889,
+          "lon": 37.481389,
+          "depth": -14
+        },
+        "Belomorskaya": {
+          "name": {
+            "en": "Belomorskaya",
+            "ru": "Беломорская"
+          },
+          "lat": 55.865833,
+          "lon": 37.476389,
+          "depth": -18
+        },
+        "Rechnoy Vokzal": {
+          "name": {
+            "en": "Rechnoy Vokzal",
+            "ru": "Речной вокзал"
+          },
+          "lat": 55.855,
+          "lon": 37.476111,
+          "depth": -6
+        },
+        "Vodny Stadion": {
+          "name": {
+            "en": "Vodny Stadion",
+            "ru": "Водный стадион"
+          },
+          "lat": 55.839722,
+          "lon": 37.486667,
+          "depth": -6
+        },
+        "Voykovskaya": {
+          "name": {
+            "en": "Voykovskaya",
+            "ru": "Войковская"
+          },
+          "lat": 55.818889,
+          "lon": 37.498056,
+          "depth": -7
+        },
+        "Sokol": {
+          "name": {
+            "en": "Sokol",
+            "ru": "Сокол"
+          },
+          "lat": 55.805,
+          "lon": 37.515278,
+          "depth": -9.6
+        },
+        "Aeroport": {
+          "name": {
+            "en": "Aeroport",
+            "ru": "Аэропорт"
+          },
+          "lat": 55.800278,
+          "lon": 37.532778,
+          "depth": -10
+        },
+        "Dinamo": {
+          "name": {
+            "en": "Dinamo",
+            "ru": "Динамо"
+          },
+          "lat": 55.789722,
+          "lon": 37.558056,
+          "depth": -39.6
+        },
+        "Belorusskaya": {
+          "name": {
+            "en": "Belorusskaya",
+            "ru": "Белорусская"
+          },
+          "lat": 55.776667,
+          "lon": 37.583611,
+          "depth": -33.1
+        },
+        "Mayakovskaya": {
+          "name": {
+            "en": "Mayakovskaya",
+            "ru": "Маяковская"
+          },
+          "lat": 55.77,
+          "lon": 37.595833,
+          "depth": -33.1
+        },
+        "Tverskaya": {
+          "name": {
+            "en": "Tverskaya",
+            "ru": "Тверская"
+          },
+          "lat": 55.764722,
+          "lon": 37.606389,
+          "depth": -42
+        },
+        "Teatralnaya": {
+          "name": {
+            "en": "Teatralnaya",
+            "ru": "Театральная"
+          },
+          "lat": 55.757778,
+          "lon": 37.618889,
+          "depth": -33.9
+        },
+        "Novokuznetskaya": {
+          "name": {
+            "en": "Novokuznetskaya",
+            "ru": "Новокузнецкая"
+          },
+          "lat": 55.741389,
+          "lon": 37.629444,
+          "depth": -37.5
+        },
+        "Paveletskaya": {
+          "name": {
+            "en": "Paveletskaya",
+            "ru": "Павелецкая"
+          },
+          "lat": 55.730556,
+          "lon": 37.637778,
+          "depth": -33.5
+        },
+        "Avtozavodskaya": {
+          "name": {
+            "en": "Avtozavodskaya",
+            "ru": "Автозаводская"
+          },
+          "lat": 55.707222,
+          "lon": 37.6575,
+          "depth": -11
+        },
+        "Tekhnopark": {
+          "name": {
+            "en": "Tekhnopark",
+            "ru": "Технопарк"
+          },
+          "lat": 55.693889,
+          "lon": 37.664444,
+          "depth": 0
+        },
+        "Kolomenskaya": {
+          "name": {
+            "en": "Kolomenskaya",
+            "ru": "Коломенская"
+          },
+          "lat": 55.678611,
+          "lon": 37.663889,
+          "depth": -9
+        },
+        "Kashirskaya": {
+          "name": {
+            "en": "Kashirskaya",
+            "ru": "Каширская"
+          },
+          "lat": 55.655,
+          "lon": 37.648611,
+          "depth": -7
+        },
+        "Kantemirovskaya": {
+          "name": {
+            "en": "Kantemirovskaya",
+            "ru": "Кантемировская"
+          },
+          "lat": 55.635833,
+          "lon": 37.656389,
+          "depth": -8
+        },
+        "Tsaritsyno": {
+          "name": {
+            "en": "Tsaritsyno",
+            "ru": "Царицыно"
+          },
+          "lat": 55.621389,
+          "lon": 37.669444,
+          "depth": -8
+        },
+        "Orekhovo": {
+          "name": {
+            "en": "Orekhovo",
+            "ru": "Орехово"
+          },
+          "lat": 55.613333,
+          "lon": 37.695,
+          "depth": -9
+        },
+        "Domodedovskaya": {
+          "name": {
+            "en": "Domodedovskaya",
+            "ru": "Домодедовская"
+          },
+          "lat": 55.610833,
+          "lon": 37.718611,
+          "depth": -9.5
+        },
+        "Krasnogvardeyskaya": {
+          "name": {
+            "en": "Krasnogvardeyskaya",
+            "ru": "Красногвардейская"
+          },
+          "lat": 55.613611,
+          "lon": 37.744444,
+          "depth": -9
+        },
+        "Alma-Atinskaya": {
+          "name": {
+            "en": "Alma-Atinskaya",
+            "ru": "Алма-Атинская"
+          },
+          "lat": 55.632778,
+          "lon": 37.766111,
+          "depth": -10
+        },
+        "Pyatnitskoye Shosse": {
+          "name": {
+            "en": "Pyatnitskoye Shosse",
+            "ru": "Пятницкое шоссе"
+          },
+          "lat": 55.856389,
+          "lon": 37.354444,
+          "depth": -11
+        },
+        "Mitino": {
+          "name": {
+            "en": "Mitino",
+            "ru": "Митино"
+          },
+          "lat": 55.845833,
+          "lon": 37.362222,
+          "depth": -14
+        },
+        "Volokolamskaya": {
+          "name": {
+            "en": "Volokolamskaya",
+            "ru": "Волоколамская"
+          },
+          "lat": 55.835556,
+          "lon": 37.382222,
+          "depth": -14
+        },
+        "Myakinino": {
+          "name": {
+            "en": "Myakinino",
+            "ru": "Мякинино"
+          },
+          "lat": 55.825278,
+          "lon": 37.385278,
+          "depth": 0
+        },
+        "Strogino": {
+          "name": {
+            "en": "Strogino",
+            "ru": "Строгино"
+          },
+          "lat": 55.803889,
+          "lon": 37.403056,
+          "depth": -8
+        },
+        "Krylatskoye": {
+          "name": {
+            "en": "Krylatskoye",
+            "ru": "Крылатское"
+          },
+          "lat": 55.756667,
+          "lon": 37.4075,
+          "depth": -9.5
+        },
+        "Molodyozhnaya": {
+          "name": {
+            "en": "Molodyozhnaya",
+            "ru": "Молодёжная"
+          },
+          "lat": 55.741111,
+          "lon": 37.416667,
+          "depth": -6.5
+        },
+        "Kuntsevskaya": {
+          "name": {
+            "en": "Kuntsevskaya",
+            "ru": "Кунцевская"
+          },
+          "lat": 55.730833,
+          "lon": 37.445833,
+          "depth": 0
+        },
+        "Slavyansky Bulvar": {
+          "name": {
+            "en": "Slavyansky Bulvar",
+            "ru": "Славянский бульвар"
+          },
+          "lat": 55.729722,
+          "lon": 37.470556,
+          "depth": -8.5
+        },
+        "Park Pobedy": {
+          "name": {
+            "en": "Park Pobedy",
+            "ru": "Парк Победы"
+          },
+          "lat": 55.736111,
+          "lon": 37.518333,
+          "depth": -73.6
+        },
+        "Kiyevskaya": {
+          "name": {
+            "en": "Kiyevskaya",
+            "ru": "Киевская"
+          },
+          "lat": 55.743889,
+          "lon": 37.565556,
+          "depth": -38
+        },
+        "Smolenskaya": {
+          "name": {
+            "en": "Smolenskaya",
+            "ru": "Смоленская"
+          },
+          "lat": 55.748889,
+          "lon": 37.582222,
+          "depth": -50
+        },
+        "Arbatskaya": {
+          "name": {
+            "en": "Arbatskaya",
+            "ru": "Арбатская"
+          },
+          "lat": 55.752222,
+          "lon": 37.606111,
+          "depth": -41
+        },
+        "Ploshchad Revolyutsii": {
+          "name": {
+            "en": "Ploshchad Revolyutsii",
+            "ru": "Площадь Революции"
+          },
+          "lat": 55.756667,
+          "lon": 37.621667,
+          "depth": -33.6
+        },
+        "Kurskaya": {
+          "name": {
+            "en": "Kurskaya",
+            "ru": "Курская"
+          },
+          "lat": 55.758056,
+          "lon": 37.658333,
+          "depth": -30.7
+        },
+        "Baumanskaya": {
+          "name": {
+            "en": "Baumanskaya",
+            "ru": "Бауманская"
+          },
+          "lat": 55.773056,
+          "lon": 37.680556,
+          "depth": -32.5
+        },
+        "Elektrozavodskaya": {
+          "name": {
+            "en": "Elektrozavodskaya",
+            "ru": "Электрозаводская"
+          },
+          "lat": 55.781944,
+          "lon": 37.703611,
+          "depth": -31.5
+        },
+        "Semyonovskaya": {
+          "name": {
+            "en": "Semyonovskaya",
+            "ru": "Семёновская"
+          },
+          "lat": 55.783333,
+          "lon": 37.720833,
+          "depth": -40
+        },
+        "Partizanskaya": {
+          "name": {
+            "en": "Partizanskaya",
+            "ru": "Партизанская"
+          },
+          "lat": 55.788611,
+          "lon": 37.750556,
+          "depth": -9
+        },
+        "Izmaylovskaya": {
+          "name": {
+            "en": "Izmaylovskaya",
+            "ru": "Измайловская"
+          },
+          "lat": 55.787778,
+          "lon": 37.781389,
+          "depth": 0
+        },
+        "Pervomayskaya": {
+          "name": {
+            "en": "Pervomayskaya",
+            "ru": "Первомайская"
+          },
+          "lat": 55.794722,
+          "lon": 37.799167,
+          "depth": -7
+        },
+        "Shchyolkovskaya": {
+          "name": {
+            "en": "Shchyolkovskaya",
+            "ru": "Щёлковская"
+          },
+          "lat": 55.809444,
+          "lon": 37.798611,
+          "depth": -8
+        },
+        "Pionerskaya": {
+          "name": {
+            "en": "Pionerskaya",
+            "ru": "Пионерская"
+          },
+          "lat": 55.736111,
+          "lon": 37.467222,
+          "depth": 0
+        },
+        "Filevsky Park": {
+          "name": {
+            "en": "Filevsky Park",
+            "ru": "Филёвский парк"
+          },
+          "lat": 55.739722,
+          "lon": 37.483333,
+          "depth": 0
+        },
+        "Bagrationovskaya": {
+          "name": {
+            "en": "Bagrationovskaya",
+            "ru": "Багратионовская"
+          },
+          "lat": 55.743889,
+          "lon": 37.497778,
+          "depth": 0
+        },
+        "Fili": {
+          "name": {
+            "en": "Fili",
+            "ru": "Фили"
+          },
+          "lat": 55.746045,
+          "lon": 37.514656,
+          "depth": 0
+        },
+        "Kutuzovskaya": {
+          "name": {
+            "en": "Kutuzovskaya",
+            "ru": "Кутузовская"
+          },
+          "lat": 55.74,
+          "lon": 37.534444,
+          "depth": 0
+        },
+        "Studencheskaya": {
+          "name": {
+            "en": "Studencheskaya",
+            "ru": "Студенческая"
+          },
+          "lat": 55.738889,
+          "lon": 37.548333,
+          "depth": 0
+        },
+        "Moskva-Siti": {
+          "name": {
+            "en": "Moskva-Siti",
+            "ru": "Москва-Сити"
+          },
+          "lat": 55.748333,
+          "lon": 37.533889,
+          "depth": -25
+        },
+        "Delovoy Tsentr": {
+          "name": {
+            "en": "Delovoy Tsentr",
+            "ru": "Деловой центр"
+          },
+          "lat": 55.75,
+          "lon": 37.541111,
+          "depth": -25
+        },
+        "Aleksandrovsky Sad": {
+          "name": {
+            "en": "Aleksandrovsky Sad",
+            "ru": "Александровский сад"
+          },
+          "lat": 55.7525,
+          "lon": 37.608889,
+          "depth": -7
+        },
+        "Oktyabrskaya": {
+          "name": {
+            "en": "Oktyabrskaya",
+            "ru": "Октябрьская"
+          },
+          "lat": 55.728333,
+          "lon": 37.611111,
+          "depth": -40
+        },
+        "Dobryninskaya": {
+          "name": {
+            "en": "Dobryninskaya",
+            "ru": "Добрынинская"
+          },
+          "lat": 55.728333,
+          "lon": 37.625556,
+          "depth": -35.5
+        },
+        "Taganskaya": {
+          "name": {
+            "en": "Taganskaya",
+            "ru": "Таганская"
+          },
+          "lat": 55.741667,
+          "lon": 37.651667,
+          "depth": -53
+        },
+        "Prospekt Mira": {
+          "name": {
+            "en": "Prospekt Mira",
+            "ru": "Проспект Мира"
+          },
+          "lat": 55.78,
+          "lon": 37.633333,
+          "depth": -40
+        },
+        "Novoslobodskaya": {
+          "name": {
+            "en": "Novoslobodskaya",
+            "ru": "Новослободская"
+          },
+          "lat": 55.78,
+          "lon": 37.601111,
+          "depth": -40
+        },
+        "Krasnopresnenskaya": {
+          "name": {
+            "en": "Krasnopresnenskaya",
+            "ru": "Краснопресненская"
+          },
+          "lat": 55.761111,
+          "lon": 37.577222,
+          "depth": -35.5
+        },
+        "Medvedkovo": {
+          "name": {
+            "en": "Medvedkovo",
+            "ru": "Медведково"
+          },
+          "lat": 55.887222,
+          "lon": 37.661389,
+          "depth": -10
+        },
+        "Babushkinskaya": {
+          "name": {
+            "en": "Babushkinskaya",
+            "ru": "Бабушкинская"
+          },
+          "lat": 55.869444,
+          "lon": 37.665556,
+          "depth": -10
+        },
+        "Sviblovo": {
+          "name": {
+            "en": "Sviblovo",
+            "ru": "Свиблово"
+          },
+          "lat": 55.855556,
+          "lon": 37.63,
+          "depth": -8
+        },
+        "Botanichesky Sad": {
+          "name": {
+            "en": "Botanichesky Sad",
+            "ru": "Ботанический сад"
+          },
+          "lat": 55.845,
+          "lon": 37.638611,
+          "depth": -7
+        },
+        "VDNKh": {
+          "name": {
+            "en": "VDNKh",
+            "ru": "ВДНХ"
+          },
+          "lat": 55.821389,
+          "lon": 37.641111,
+          "depth": -53.5
+        },
+        "Alekseevskaya": {
+          "name": {
+            "en": "Alekseevskaya",
+            "ru": "Алексеевская"
+          },
+          "lat": 55.808889,
+          "lon": 37.638333,
+          "depth": -51
+        },
+        "Rizhskaya": {
+          "name": {
+            "en": "Rizhskaya",
+            "ru": "Рижская"
+          },
+          "lat": 55.793611,
+          "lon": 37.636111,
+          "depth": -46
+        },
+        "Sukharevskaya": {
+          "name": {
+            "en": "Sukharevskaya",
+            "ru": "Сухаревская"
+          },
+          "lat": 55.773333,
+          "lon": 37.632222,
+          "depth": -43
+        },
+        "Turgenevskaya": {
+          "name": {
+            "en": "Turgenevskaya",
+            "ru": "Тургеневская"
+          },
+          "lat": 55.766111,
+          "lon": 37.637222,
+          "depth": -49
+        },
+        "Kitay-Gorod": {
+          "name": {
+            "en": "Kitay-Gorod",
+            "ru": "Китай-город"
+          },
+          "lat": 55.755556,
+          "lon": 37.633056,
+          "depth": -29
+        },
+        "Tretyakovskaya": {
+          "name": {
+            "en": "Tretyakovskaya",
+            "ru": "Третьяковская"
+          },
+          "lat": 55.741111,
+          "lon": 37.6275,
+          "depth": -46
+        },
+        "Shabolovskaya": {
+          "name": {
+            "en": "Shabolovskaya",
+            "ru": "Шаболовская"
+          },
+          "lat": 55.719722,
+          "lon": 37.608333,
+          "depth": -46.5
+        },
+        "Leninsky Prospekt": {
+          "name": {
+            "en": "Leninsky Prospekt",
+            "ru": "Ленинский проспект"
+          },
+          "lat": 55.707778,
+          "lon": 37.586111,
+          "depth": -16
+        },
+        "Akademicheskaya": {
+          "name": {
+            "en": "Akademicheskaya",
+            "ru": "Академическая"
+          },
+          "lat": 55.687778,
+          "lon": 37.573333,
+          "depth": -8.5
+        },
+        "Profsoyuznaya": {
+          "name": {
+            "en": "Profsoyuznaya",
+            "ru": "Профсоюзная"
+          },
+          "lat": 55.678056,
+          "lon": 37.562778,
+          "depth": -7
+        },
+        "Novye Cheremushki": {
+          "name": {
+            "en": "Novye Cheremushki",
+            "ru": "Новые Черёмушки"
+          },
+          "lat": 55.670278,
+          "lon": 37.554444,
+          "depth": -7
+        },
+        "Kaluzhskaya": {
+          "name": {
+            "en": "Kaluzhskaya",
+            "ru": "Калужская"
+          },
+          "lat": 55.657222,
+          "lon": 37.54,
+          "depth": -10
+        },
+        "Belyaevo": {
+          "name": {
+            "en": "Belyaevo",
+            "ru": "Беляево"
+          },
+          "lat": 55.642778,
+          "lon": 37.525833,
+          "depth": -12
+        },
+        "Konkovo": {
+          "name": {
+            "en": "Konkovo",
+            "ru": "Коньково"
+          },
+          "lat": 55.633333,
+          "lon": 37.519167,
+          "depth": -8
+        },
+        "Tyoply Stan": {
+          "name": {
+            "en": "Tyoply Stan",
+            "ru": "Тёплый Стан"
+          },
+          "lat": 55.619167,
+          "lon": 37.508333,
+          "depth": -8
+        },
+        "Yasenevo": {
+          "name": {
+            "en": "Yasenevo",
+            "ru": "Ясенево"
+          },
+          "lat": 55.606389,
+          "lon": 37.533333,
+          "depth": -8
+        },
+        "Novoyasenevskaya": {
+          "name": {
+            "en": "Novoyasenevskaya",
+            "ru": "Новоясеневская"
+          },
+          "lat": 55.601111,
+          "lon": 37.554167,
+          "depth": -7
+        },
+        "Planernaya": {
+          "name": {
+            "en": "Planernaya",
+            "ru": "Планерная"
+          },
+          "lat": 55.860833,
+          "lon": 37.436389,
+          "depth": -6
+        },
+        "Skhodnenskaya": {
+          "name": {
+            "en": "Skhodnenskaya",
+            "ru": "Сходненская"
+          },
+          "lat": 55.850556,
+          "lon": 37.439722,
+          "depth": -6
+        },
+        "Tushinskaya": {
+          "name": {
+            "en": "Tushinskaya",
+            "ru": "Тушинская"
+          },
+          "lat": 55.826667,
+          "lon": 37.436389,
+          "depth": -10.5
+        },
+        "Spartak": {
+          "name": {
+            "en": "Spartak",
+            "ru": "Спартак"
+          },
+          "lat": 55.818056,
+          "lon": 37.435833,
+          "depth": -10
+        },
+        "Shchukinskaya": {
+          "name": {
+            "en": "Shchukinskaya",
+            "ru": "Щукинская"
+          },
+          "lat": 55.808611,
+          "lon": 37.464167,
+          "depth": -13
+        },
+        "Oktyabrskoye Pole": {
+          "name": {
+            "en": "Oktyabrskoye Pole",
+            "ru": "Октябрьское Поле"
+          },
+          "lat": 55.793889,
+          "lon": 37.493889,
+          "depth": -9
+        },
+        "Polezhaevskaya": {
+          "name": {
+            "en": "Polezhaevskaya",
+            "ru": "Полежаевская"
+          },
+          "lat": 55.7775,
+          "lon": 37.519167,
+          "depth": -10
+        },
+        "Begovaya": {
+          "name": {
+            "en": "Begovaya",
+            "ru": "Беговая"
+          },
+          "lat": 55.773889,
+          "lon": 37.546389,
+          "depth": -9
+        },
+        "Ulitsa 1905 Goda": {
+          "name": {
+            "en": "Ulitsa 1905 Goda",
+            "ru": "Улица 1905 года"
+          },
+          "lat": 55.765,
+          "lon": 37.561389,
+          "depth": -11
+        },
+        "Barrikadnaya": {
+          "name": {
+            "en": "Barrikadnaya",
+            "ru": "Баррикадная"
+          },
+          "lat": 55.761111,
+          "lon": 37.579444,
+          "depth": -30
+        },
+        "Pushkinskaya": {
+          "name": {
+            "en": "Pushkinskaya",
+            "ru": "Пушкинская"
+          },
+          "lat": 55.765556,
+          "lon": 37.605556,
+          "depth": -51
+        },
+        "Kuznetsky Most": {
+          "name": {
+            "en": "Kuznetsky Most",
+            "ru": "Кузнецкий Мост"
+          },
+          "lat": 55.760556,
+          "lon": 37.626111,
+          "depth": -39.5
+        },
+        "Proletarskaya": {
+          "name": {
+            "en": "Proletarskaya",
+            "ru": "Пролетарская"
+          },
+          "lat": 55.731667,
+          "lon": 37.666389,
+          "depth": -9
+        },
+        "Volgogradsky Prospekt": {
+          "name": {
+            "en": "Volgogradsky Prospekt",
+            "ru": "Волгоградский проспект"
+          },
+          "lat": 55.725556,
+          "lon": 37.686944,
+          "depth": -8
+        },
+        "Tekstilshchiki": {
+          "name": {
+            "en": "Tekstilshchiki",
+            "ru": "Текстильщики"
+          },
+          "lat": 55.709167,
+          "lon": 37.731944,
+          "depth": -13
+        },
+        "Kuzminki": {
+          "name": {
+            "en": "Kuzminki",
+            "ru": "Кузьминки"
+          },
+          "lat": 55.705556,
+          "lon": 37.765833,
+          "depth": -8
+        },
+        "Ryazansky Prospekt": {
+          "name": {
+            "en": "Ryazansky Prospekt",
+            "ru": "Рязанский проспект"
+          },
+          "lat": 55.716944,
+          "lon": 37.793333,
+          "depth": -6
+        },
+        "Vykhino": {
+          "name": {
+            "en": "Vykhino",
+            "ru": "Выхино"
+          },
+          "lat": 55.715556,
+          "lon": 37.817778,
+          "depth": 0
+        },
+        "Lermontovsky Prospekt": {
+          "name": {
+            "en": "Lermontovsky Prospekt",
+            "ru": "Лермонтовский проспект"
+          },
+          "lat": 55.701389,
+          "lon": 37.8525,
+          "depth": -12
+        },
+        "Zhulebino": {
+          "name": {
+            "en": "Zhulebino",
+            "ru": "Жулебино"
+          },
+          "lat": 55.692222,
+          "lon": 37.856389,
+          "depth": -15
+        },
+        "Kotelniki": {
+          "name": {
+            "en": "Kotelniki",
+            "ru": "Котельники"
+          },
+          "lat": 55.675556,
+          "lon": 37.858333,
+          "depth": -15
+        },
+        "Marksistskaya": {
+          "name": {
+            "en": "Marksistskaya",
+            "ru": "Марксистская"
+          },
+          "lat": 55.740833,
+          "lon": 37.656111,
+          "depth": -60
+        },
+        "Ploshchad Ilyicha": {
+          "name": {
+            "en": "Ploshchad Ilyicha",
+            "ru": "Площадь Ильича"
+          },
+          "lat": 55.747222,
+          "lon": 37.682222,
+          "depth": -46
+        },
+        "Aviamotornaya": {
+          "name": {
+            "en": "Aviamotornaya",
+            "ru": "Авиамоторная"
+          },
+          "lat": 55.752222,
+          "lon": 37.719167,
+          "depth": -53
+        },
+        "Shosse Entuziastov": {
+          "name": {
+            "en": "Shosse Entuziastov",
+            "ru": "Шоссе Энтузиастов"
+          },
+          "lat": 55.7575,
+          "lon": 37.751944,
+          "depth": -53
+        },
+        "Perovo": {
+          "name": {
+            "en": "Perovo",
+            "ru": "Перово"
+          },
+          "lat": 55.751111,
+          "lon": 37.786667,
+          "depth": -9
+        },
+        "Novogireyevo": {
+          "name": {
+            "en": "Novogireyevo",
+            "ru": "Новогиреево"
+          },
+          "lat": 55.751667,
+          "lon": 37.816667,
+          "depth": -9
+        },
+        "Novokosino": {
+          "name": {
+            "en": "Novokosino",
+            "ru": "Новокосино"
+          },
+          "lat": 55.745,
+          "lon": 37.864167,
+          "depth": -9
+        },
+        "Minskaya": {
+          "name": {
+            "en": "Minskaya",
+            "ru": "Минская"
+          },
+          "lat": 55.724722,
+          "lon": 37.496667,
+          "depth": -15
+        },
+        "Lomonosovsky Prospekt": {
+          "name": {
+            "en": "Lomonosovsky Prospekt",
+            "ru": "Ломоносовский проспект"
+          },
+          "lat": 55.707222,
+          "lon": 37.516389,
+          "depth": -15
+        },
+        "Ramenki": {
+          "name": {
+            "en": "Ramenki",
+            "ru": "Раменки"
+          },
+          "lat": 55.697778,
+          "lon": 37.498611,
+          "depth": -15
+        },
+        "Michurinsky Prospekt": {
+          "name": {
+            "en": "Michurinsky Prospekt",
+            "ru": "Мичуринский проспект"
+          },
+          "lat": 55.689444,
+          "lon": 37.483056,
+          "depth": -13
+        },
+        "Ozyornaya": {
+          "name": {
+            "en": "Ozyornaya",
+            "ru": "Озёрная"
+          },
+          "lat": 55.670556,
+          "lon": 37.448333,
+          "depth": -25
+        },
+        "Govorovo": {
+          "name": {
+            "en": "Govorovo",
+            "ru": "Говорово"
+          },
+          "lat": 55.659444,
+          "lon": 37.417222,
+          "depth": -14
+        },
+        "Solntsevo": {
+          "name": {
+            "en": "Solntsevo",
+            "ru": "Солнцево"
+          },
+          "lat": 55.649444,
+          "lon": 37.391111,
+          "depth": -13
+        },
+        "Borovskoye Shosse": {
+          "name": {
+            "en": "Borovskoye Shosse",
+            "ru": "Боровское шоссе"
+          },
+          "lat": 55.647778,
+          "lon": 37.370278,
+          "depth": -20
+        },
+        "Novoperedelkino": {
+          "name": {
+            "en": "Novoperedelkino",
+            "ru": "Новопеределкино"
+          },
+          "lat": 55.639167,
+          "lon": 37.363472,
+          "depth": -16
+        },
+        "Rasskazovka": {
+          "name": {
+            "en": "Rasskazovka",
+            "ru": "Рассказовка"
+          },
+          "lat": 55.633056,
+          "lon": 37.332778,
+          "depth": -12
+        },
+        "Pykhtino": {
+          "name": {
+            "en": "Pykhtino",
+            "ru": "Пыхтино"
+          },
+          "lat": 55.625,
+          "lon": 37.298056,
+          "depth": 0
+        },
+        "Aeroport Vnukovo": {
+          "name": {
+            "en": "Aeroport Vnukovo",
+            "ru": "Аэропорт Внуково"
+          },
+          "lat": 55.607778,
+          "lon": 37.286111,
+          "depth": 0
+        },
+        "Altufyevo": {
+          "name": {
+            "en": "Altufyevo",
+            "ru": "Алтуфьево"
+          },
+          "lat": 55.898056,
+          "lon": 37.586944,
+          "depth": -9
+        },
+        "Bibirevo": {
+          "name": {
+            "en": "Bibirevo",
+            "ru": "Бибирево"
+          },
+          "lat": 55.883889,
+          "lon": 37.603333,
+          "depth": -9.5
+        },
+        "Otradnoye": {
+          "name": {
+            "en": "Otradnoye",
+            "ru": "Отрадное"
+          },
+          "lat": 55.863333,
+          "lon": 37.604444,
+          "depth": -9
+        },
+        "Vladykino": {
+          "name": {
+            "en": "Vladykino",
+            "ru": "Владыкино"
+          },
+          "lat": 55.847222,
+          "lon": 37.589722,
+          "depth": -10.5
+        },
+        "Petrovsko-Razumovskaya": {
+          "name": {
+            "en": "Petrovsko-Razumovskaya",
+            "ru": "Петровско-Разумовская"
+          },
+          "lat": 55.836944,
+          "lon": 37.574444,
+          "depth": -61
+        },
+        "Timiryazevskaya": {
+          "name": {
+            "en": "Timiryazevskaya",
+            "ru": "Тимирязевская"
+          },
+          "lat": 55.8175,
+          "lon": 37.576111,
+          "depth": -63.5
+        },
+        "Dmitrovskaya": {
+          "name": {
+            "en": "Dmitrovskaya",
+            "ru": "Дмитровская"
+          },
+          "lat": 55.807222,
+          "lon": 37.581944,
+          "depth": -59
+        },
+        "Savyalovskaya": {
+          "name": {
+            "en": "Savyalovskaya",
+            "ru": "Савёловская"
+          },
+          "lat": 55.794444,
+          "lon": 37.588611,
+          "depth": -52
+        },
+        "Mendeleyevskaya": {
+          "name": {
+            "en": "Mendeleyevskaya",
+            "ru": "Менделеевская"
+          },
+          "lat": 55.781944,
+          "lon": 37.599167,
+          "depth": -48.5
+        },
+        "Tsvetnoy Bulvar": {
+          "name": {
+            "en": "Tsvetnoy Bulvar",
+            "ru": "Цветной бульвар"
+          },
+          "lat": 55.770833,
+          "lon": 37.618611,
+          "depth": -50
+        },
+        "Chekhovskaya": {
+          "name": {
+            "en": "Chekhovskaya",
+            "ru": "Чеховская"
+          },
+          "lat": 55.766111,
+          "lon": 37.608333,
+          "depth": -62
+        },
+        "Borovitskaya": {
+          "name": {
+            "en": "Borovitskaya",
+            "ru": "Боровицкая"
+          },
+          "lat": 55.751111,
+          "lon": 37.607778,
+          "depth": -46.5
+        },
+        "Polyanka": {
+          "name": {
+            "en": "Polyanka",
+            "ru": "Полянка"
+          },
+          "lat": 55.737778,
+          "lon": 37.618056,
+          "depth": -36.5
+        },
+        "Serpukhovskaya": {
+          "name": {
+            "en": "Serpukhovskaya",
+            "ru": "Серпуховская"
+          },
+          "lat": 55.728889,
+          "lon": 37.624722,
+          "depth": -43
+        },
+        "Tulskaya": {
+          "name": {
+            "en": "Tulskaya",
+            "ru": "Тульская"
+          },
+          "lat": 55.708611,
+          "lon": 37.622778,
+          "depth": -9.5
+        },
+        "Nagatinskaya": {
+          "name": {
+            "en": "Nagatinskaya",
+            "ru": "Нагатинская"
+          },
+          "lat": 55.683056,
+          "lon": 37.6225,
+          "depth": -13.5
+        },
+        "Nagornaya": {
+          "name": {
+            "en": "Nagornaya",
+            "ru": "Нагорная"
+          },
+          "lat": 55.672778,
+          "lon": 37.610278,
+          "depth": -9
+        },
+        "Nakhimovsky Prospekt": {
+          "name": {
+            "en": "Nakhimovsky Prospekt",
+            "ru": "Нахимовский проспект"
+          },
+          "lat": 55.662778,
+          "lon": 37.605278,
+          "depth": -9.5
+        },
+        "Sevastopolskaya": {
+          "name": {
+            "en": "Sevastopolskaya",
+            "ru": "Севастопольская"
+          },
+          "lat": 55.651389,
+          "lon": 37.598611,
+          "depth": -13
+        },
+        "Chertanovskaya": {
+          "name": {
+            "en": "Chertanovskaya",
+            "ru": "Чертановская"
+          },
+          "lat": 55.640833,
+          "lon": 37.606667,
+          "depth": -10.5
+        },
+        "Yuzhnaya": {
+          "name": {
+            "en": "Yuzhnaya",
+            "ru": "Южная"
+          },
+          "lat": 55.6225,
+          "lon": 37.609167,
+          "depth": -10
+        },
+        "Prazhskaya": {
+          "name": {
+            "en": "Prazhskaya",
+            "ru": "Пражская"
+          },
+          "lat": 55.611944,
+          "lon": 37.604444,
+          "depth": -9.5
+        },
+        "Ulitsa Akademika Yangelya": {
+          "name": {
+            "en": "Ulitsa Akademika Yangelya",
+            "ru": "Улица Академика Янгеля"
+          },
+          "lat": 55.595,
+          "lon": 37.600278,
+          "depth": -8
+        },
+        "Annino": {
+          "name": {
+            "en": "Annino",
+            "ru": "Аннино"
+          },
+          "lat": 55.582778,
+          "lon": 37.596389,
+          "depth": -8
+        },
+        "Bulvar Dmitriya Donskogo": {
+          "name": {
+            "en": "Bulvar Dmitriya Donskogo",
+            "ru": "Бульвар Дмитрия Донского"
+          },
+          "lat": 55.569167,
+          "lon": 37.576944,
+          "depth": -10
+        },
+        "Fiztekh": {
+          "name": {
+            "en": "Fiztekh",
+            "ru": "Физтех"
+          },
+          "lat": 55.921667,
+          "lon": 37.546389,
+          "depth": -15
+        },
+        "Lianozovo": {
+          "name": {
+            "en": "Lianozovo",
+            "ru": "Лианозово"
+          },
+          "lat": 55.898889,
+          "lon": 37.544722,
+          "depth": -20
+        },
+        "Yakhromskaya": {
+          "name": {
+            "en": "Yakhromskaya",
+            "ru": "Яхромская"
+          },
+          "lat": 55.88,
+          "lon": 37.545278,
+          "depth": -10
+        },
+        "Seligerskaya": {
+          "name": {
+            "en": "Seligerskaya",
+            "ru": "Селигерская"
+          },
+          "lat": 55.866389,
+          "lon": 37.547222,
+          "depth": -20
+        },
+        "Verkhnie Likhobory": {
+          "name": {
+            "en": "Verkhnie Likhobory",
+            "ru": "Верхние Лихоборы"
+          },
+          "lat": 55.856111,
+          "lon": 37.561111,
+          "depth": -65
+        },
+        "Okruzhnaya": {
+          "name": {
+            "en": "Okruzhnaya",
+            "ru": "Окружная"
+          },
+          "lat": 55.846111,
+          "lon": 37.573889,
+          "depth": -65
+        },
+        "Fonvizinskaya": {
+          "name": {
+            "en": "Fonvizinskaya",
+            "ru": "Фонвизинская"
+          },
+          "lat": 55.822778,
+          "lon": 37.588889,
+          "depth": -65
+        },
+        "Butyrskaya": {
+          "name": {
+            "en": "Butyrskaya",
+            "ru": "Бутырская"
+          },
+          "lat": 55.813333,
+          "lon": 37.601389,
+          "depth": -60
+        },
+        "Maryina Roshcha": {
+          "name": {
+            "en": "Maryina Roshcha",
+            "ru": "Марьина Роща"
+          },
+          "lat": 55.795278,
+          "lon": 37.616389,
+          "depth": -60
+        },
+        "Dostoyevskaya": {
+          "name": {
+            "en": "Dostoyevskaya",
+            "ru": "Достоевская"
+          },
+          "lat": 55.781944,
+          "lon": 37.613889,
+          "depth": -60
+        },
+        "Trubnaya": {
+          "name": {
+            "en": "Trubnaya",
+            "ru": "Трубная"
+          },
+          "lat": 55.767778,
+          "lon": 37.62,
+          "depth": -60
+        },
+        "Sretensky Bulvar": {
+          "name": {
+            "en": "Sretensky Bulvar",
+            "ru": "Сретенский бульвар"
+          },
+          "lat": 55.766667,
+          "lon": 37.639167,
+          "depth": -60
+        },
+        "Chkalovskaya": {
+          "name": {
+            "en": "Chkalovskaya",
+            "ru": "Чкаловская"
+          },
+          "lat": 55.756111,
+          "lon": 37.659167,
+          "depth": -51
+        },
+        "Rimskaya": {
+          "name": {
+            "en": "Rimskaya",
+            "ru": "Римская"
+          },
+          "lat": 55.746667,
+          "lon": 37.681944,
+          "depth": -54
+        },
+        "Krestyanskaya Zastava": {
+          "name": {
+            "en": "Krestyanskaya Zastava",
+            "ru": "Крестьянская Застава"
+          },
+          "lat": 55.732778,
+          "lon": 37.667222,
+          "depth": -47
+        },
+        "Dubrovka": {
+          "name": {
+            "en": "Dubrovka",
+            "ru": "Дубровка"
+          },
+          "lat": 55.718056,
+          "lon": 37.676111,
+          "depth": -62
+        },
+        "Kozhukhovskaya": {
+          "name": {
+            "en": "Kozhukhovskaya",
+            "ru": "Кожуховская"
+          },
+          "lat": 55.707222,
+          "lon": 37.685,
+          "depth": -12
+        },
+        "Pechatniki": {
+          "name": {
+            "en": "Pechatniki",
+            "ru": "Печатники"
+          },
+          "lat": 55.693333,
+          "lon": 37.727222,
+          "depth": -5
+        },
+        "Volzhskaya": {
+          "name": {
+            "en": "Volzhskaya",
+            "ru": "Волжская"
+          },
+          "lat": 55.693333,
+          "lon": 37.753889,
+          "depth": -8
+        },
+        "Lyublino": {
+          "name": {
+            "en": "Lyublino",
+            "ru": "Люблино"
+          },
+          "lat": 55.676389,
+          "lon": 37.761667,
+          "depth": -8
+        },
+        "Bratislavskaya": {
+          "name": {
+            "en": "Bratislavskaya",
+            "ru": "Братиславская"
+          },
+          "lat": 55.659722,
+          "lon": 37.750833,
+          "depth": -8
+        },
+        "Maryino": {
+          "name": {
+            "en": "Maryino",
+            "ru": "Марьино"
+          },
+          "lat": 55.65,
+          "lon": 37.743889,
+          "depth": -8
+        },
+        "Borisovo": {
+          "name": {
+            "en": "Borisovo",
+            "ru": "Борисово"
+          },
+          "lat": 55.633056,
+          "lon": 37.743889,
+          "depth": -10
+        },
+        "Shipilovskaya": {
+          "name": {
+            "en": "Shipilovskaya",
+            "ru": "Шипиловская"
+          },
+          "lat": 55.620833,
+          "lon": 37.7425,
+          "depth": -10
+        },
+        "Zyablikovo": {
+          "name": {
+            "en": "Zyablikovo",
+            "ru": "Зябликово"
+          },
+          "lat": 55.611389,
+          "lon": 37.745,
+          "depth": -15
+        },
+        "Savyalovskaya": {
+          "name": {
+            "en": "Savyalovskaya",
+            "ru": "Савёловская"
+          },
+          "lat": 55.793333,
+          "lon": 37.587222,
+          "depth": -65
+        },
+        "Petrovsky Park": {
+          "name": {
+            "en": "Petrovsky Park",
+            "ru": "Петровский парк"
+          },
+          "lat": 55.791944,
+          "lon": 37.557222,
+          "depth": -25
+        },
+        "CSKA": {
+          "name": {
+            "en": "CSKA",
+            "ru": "ЦСКА"
+          },
+          "lat": 55.786667,
+          "lon": 37.533333,
+          "depth": -28
+        },
+        "Khoroshyovskaya": {
+          "name": {
+            "en": "Khoroshyovskaya",
+            "ru": "Хорошёвская"
+          },
+          "lat": 55.776667,
+          "lon": 37.519167,
+          "depth": -21
+        },
+        "Narodnogo Opolcheniya": {
+          "name": {
+            "en": "Narodnogo Opolcheniya",
+            "ru": "Народное Ополчение"
+          },
+          "lat": 55.775833,
+          "lon": 37.485,
+          "depth": -28
+        },
+        "Myovniki": {
+          "name": {
+            "en": "Myovniki",
+            "ru": "Мнёвники"
+          },
+          "lat": 55.761111,
+          "lon": 37.471389,
+          "depth": -27
+        },
+        "Terekhovo": {
+          "name": {
+            "en": "Terekhovo",
+            "ru": "Терехово"
+          },
+          "lat": 55.748056,
+          "lon": 37.459722,
+          "depth": -22
+        },
+        "Davydkovo": {
+          "name": {
+            "en": "Davydkovo",
+            "ru": "Давыдково"
+          },
+          "lat": 55.715278,
+          "lon": 37.451667,
+          "depth": -33
+        },
+        "Aminyevskaya": {
+          "name": {
+            "en": "Aminyevskaya",
+            "ru": "Аминьевская"
+          },
+          "lat": 55.697222,
+          "lon": 37.465,
+          "depth": -14
+        },
+        "Novatorskaya": {
+          "name": {
+            "en": "Novatorskaya",
+            "ru": "Новаторская"
+          },
+          "lat": 55.67,
+          "lon": 37.522222,
+          "depth": -11
+        },
+        "Vorontsovskaya": {
+          "name": {
+            "en": "Vorontsovskaya",
+            "ru": "Воронцовская"
+          },
+          "lat": 55.658889,
+          "lon": 37.539167,
+          "depth": -21
+        },
+        "Zyuzino": {
+          "name": {
+            "en": "Zyuzino",
+            "ru": "Зюзино"
+          },
+          "lat": 55.656111,
+          "lon": 37.573611,
+          "depth": -17.5
+        },
+        "Kakhovskaya": {
+          "name": {
+            "en": "Kakhovskaya",
+            "ru": "Каховская"
+          },
+          "lat": 55.654722,
+          "lon": 37.659167,
+          "depth": -8
+        },
+        "Varshavskaya": {
+          "name": {
+            "en": "Varshavskaya",
+            "ru": "Варшавская"
+          },
+          "lat": 55.653333,
+          "lon": 37.619722,
+          "depth": -9
+        },
+        "Klenovy Bulvar": {
+          "name": {
+            "en": "Klenovy Bulvar",
+            "ru": "Кленовый бульвар"
+          },
+          "lat": 55.674722,
+          "lon": 37.682222,
+          "depth": -24.3
+        },
+        "Nagatinsky Zaton": {
+          "name": {
+            "en": "Nagatinsky Zaton",
+            "ru": "Нагатинский Затон"
+          },
+          "lat": 55.683889,
+          "lon": 37.703333,
+          "depth": -27
+        },
+        "Nizhegorodskaya": {
+          "name": {
+            "en": "Nizhegorodskaya",
+            "ru": "Нижегородская"
+          },
+          "lat": 55.732222,
+          "lon": 37.728333,
+          "depth": -21.8
+        },
+        "Lefortovo": {
+          "name": {
+            "en": "Lefortovo",
+            "ru": "Лефортово"
+          },
+          "lat": 55.764722,
+          "lon": 37.706667,
+          "depth": -26
+        },
+        "Bitsevsky Park": {
+          "name": {
+            "en": "Bitsevsky Park",
+            "ru": "Битцевский парк"
+          },
+          "lat": 55.6,
+          "lon": 37.556111,
+          "depth": -10
+        },
+        "Lesoparkovaya": {
+          "name": {
+            "en": "Lesoparkovaya",
+            "ru": "Лесопарковая"
+          },
+          "lat": 55.581667,
+          "lon": 37.577778,
+          "depth": -10
+        },
+        "Ulitsa Starokachalovskaya": {
+          "name": {
+            "en": "Ulitsa Starokachalovskaya",
+            "ru": "Улица Старокачаловская"
+          },
+          "lat": 55.568889,
+          "lon": 37.576944,
+          "depth": -10
+        },
+        "Ulitsa Skobelevskaya": {
+          "name": {
+            "en": "Ulitsa Skobelevskaya",
+            "ru": "Улица Скобелевская"
+          },
+          "lat": 55.548056,
+          "lon": 37.554444,
+          "depth": 9.6
+        },
+        "Bulvar Admirala Ushakova": {
+          "name": {
+            "en": "Bulvar Admirala Ushakova",
+            "ru": "Бульвар Адмирала Ушакова"
+          },
+          "lat": 55.545556,
+          "lon": 37.543056,
+          "depth": 9.6
+        },
+        "Ulitsa Gorchakova": {
+          "name": {
+            "en": "Ulitsa Gorchakova",
+            "ru": "Улица Горчакова"
+          },
+          "lat": 55.541667,
+          "lon": 37.530833,
+          "depth": 9.6
+        },
+        "Buninskaya Alleya": {
+          "name": {
+            "en": "Buninskaya Alleya",
+            "ru": "Бунинская аллея"
+          },
+          "lat": 55.538056,
+          "lon": 37.515833,
+          "depth": 9.6
+        },
+        "Stakhanovskaya": {
+          "name": {
+            "en": "Stakhanovskaya",
+            "ru": "Стахановская"
+          },
+          "lat": 55.723889,
+          "lon": 37.751944,
+          "depth": -19
+        },
+        "Okskaya": {
+          "name": {
+            "en": "Okskaya",
+            "ru": "Окская"
+          },
+          "lat": 55.718611,
+          "lon": 37.781389,
+          "depth": -21
+        },
+        "Yugo-Vostochnaya": {
+          "name": {
+            "en": "Yugo-Vostochnaya",
+            "ru": "Юго-Восточная"
+          },
+          "lat": 55.705278,
+          "lon": 37.818056,
+          "depth": -20
+        },
+        "Kosino": {
+          "name": {
+            "en": "Kosino",
+            "ru": "Косино"
+          },
+          "lat": 55.703333,
+          "lon": 37.856944,
+          "depth": -27
+        },
+        "Ulitsa Dmitriyevskogo": {
+          "name": {
+            "en": "Ulitsa Dmitriyevskogo",
+            "ru": "Улица Дмитриевского"
+          },
+          "lat": 55.71,
+          "lon": 37.88,
+          "depth": -18
+        },
+        "Lukhmanovskaya": {
+          "name": {
+            "en": "Lukhmanovskaya",
+            "ru": "Лухмановская"
+          },
+          "lat": 55.708611,
+          "lon": 37.900833,
+          "depth": -15
+        },
+        "Nekrasovka": {
+          "name": {
+            "en": "Nekrasovka",
+            "ru": "Некрасовка"
+          },
+          "lat": 55.703889,
+          "lon": 37.928333,
+          "depth": -16
+        },
+        "ZIL": {
+          "name": {
+            "en": "ZIL",
+            "ru": "ЗИЛ"
+          },
+          "lat": 55.698625,
+          "lon": 37.649051,
+          "depth": -10
+        },
+        "Krymskaya": {
+          "name": {
+            "en": "Krymskaya",
+            "ru": "Крымская"
+          },
+          "lat": 55.689750,
+          "lon": 37.608859,
+          "depth": -22
+        },
+        "Vavilovskaya": {
+          "name": {
+            "en": "Vavilovskaya",
+            "ru": "Вавиловская"
+          },
+          "lat": 55.685021,
+          "lon": 37.541162,
+          "depth": -10
+        },
+        "Universitet Druzhby Narodov": {
+          "name": {
+            "en": "Universitet Druzhby Narodov",
+            "ru": "Университет дружбы народов"
+          },
+          "lat": 55.649167,
+          "lon": 37.507083,
+          "depth": -23
+        },
+        "Generala Tyuleneva": {
+          "name": {
+            "en": "Generala Tyuleneva",
+            "ru": "Генерала Тюленева"
+          },
+          "lat": 55.626389,
+          "lon": 37.498889,
+          "depth": -20
+        },
+        "Tyutchevskaya": {
+          "name": {
+            "en": "Tyutchevskaya",
+            "ru": "Тютчевская"
+          },
+          "lat": 55.616667,
+          "lon": 37.489722,
+          "depth": -12.65
+        },
+        "Kornilovskaya": {
+          "name": {
+            "en": "Kornilovskaya",
+            "ru": "Корниловская"
+          },
+          "lat": 55.598787,
+          "lon": 37.479300,
+          "depth": -16.18
+        },
+        "Kommunarka": {
+          "name": {
+            "en": "Kommunarka",
+            "ru": "Коммунарка"
+          },
+          "lat": 55.574599,
+          "lon": 37.467967,
+          "depth": -15
+        }
+      }
+    },
+    "novosibirsk": {
+      "lines": [
+        {
+          "name": {
+            "en": "Leninskaya Line",
+            "ru": "Ленинская линия"
+          },
+          "color": "#FF0000",
+          "stations": [
+            "Ploshchad Marksa",
+            "Studencheskaya",
+            "Sportivnaya",
+            "Rechnoy Vokzal",
+            "Oktyabrskaya",
+            "Ploshchad Lenina",
+            "Krasny Prospekt",
+            "Gagarinskaya",
+            "Zayeltsovskaya"
+          ]
+        },
+        {
+          "name": {
+            "en": "Dzerzhinskaya Line",
+            "ru": "Дзержинская линия"
+          },
+          "color": "#00FF00",
+          "stations": [
+            "Zolotaya Niva",
+            "Beryozovaya Roshcha",
+            "Marshala Pokryshkina",
+            "Sibirskaya",
+            "Krasny Prospekt",
+            "Ploshchad Garina-Mikhaylovskogo"
+          ]
+        }
+      ],
+      "stations": {
+        "Ploshchad Marksa": {
+          "name": {
+            "en": "Ploshchad Marksa",
+            "ru": "Площадь Маркса"
+          },
+          "lat": 54.983056,
+          "lon": 82.893333,
+          "depth": -10
+        },
+        "Studencheskaya": {
+          "name": {
+            "en": "Studencheskaya",
+            "ru": "Студенческая"
+          },
+          "lat": 54.988889,
+          "lon": 82.906250,
+          "depth": -10
+        },
+        "Sportivnaya": {
+          "name": {
+            "en": "Sportivnaya",
+            "ru": "Спортивная"
+          },
+          "lat": 54.996900,
+          "lon": 82.920600,
+          "depth": 0
+        },
+        "Rechnoy Vokzal": {
+          "name": {
+            "en": "Rechnoy Vokzal",
+            "ru": "Речной вокзал"
+          },
+          "lat": 55.009333,
+          "lon": 82.940194,
+          "depth": 0
+        },
+        "Oktyabrskaya": {
+          "name": {
+            "en": "Oktyabrskaya",
+            "ru": "Октябрьская"
+          },
+          "lat": 55.018889,
+          "lon": 82.939167,
+          "depth": -13
+        },
+        "Ploshchad Lenina": {
+          "name": {
+            "en": "Ploshchad Lenina",
+            "ru": "Площадь Ленина"
+          },
+          "lat": 55.030000,
+          "lon": 82.920556,
+          "depth": -10
+        },
+        "Krasny Prospekt": {
+          "name": {
+            "en": "Krasny Prospekt",
+            "ru": "Красный проспект"
+          },
+          "lat": 55.041389,
+          "lon": 82.917222,
+          "depth": -10
+        },
+        "Gagarinskaya": {
+          "name": {
+            "en": "Gagarinskaya",
+            "ru": "Гагаринская"
+          },
+          "lat": 55.050556,
+          "lon": 82.914722,
+          "depth": -10
+        },
+        "Zayeltsovskaya": {
+          "name": {
+            "en": "Zayeltsovskaya",
+            "ru": "Заельцовская"
+          },
+          "lat": 55.059333,
+          "lon": 82.912872,
+          "depth": -10
+        },
+        "Zolotaya Niva": {
+          "name": {
+            "en": "Zolotaya Niva",
+            "ru": "Золотая Нива"
+          },
+          "lat": 55.037617,
+          "lon": 82.976636,
+          "depth": -15
+        },
+        "Beryozovaya Roshcha": {
+          "name": {
+            "en": "Beryozovaya Roshcha",
+            "ru": "Берёзовая Роща"
+          },
+          "lat": 55.043333,
+          "lon": 82.953056,
+          "depth": -10
+        },
+        "Marshala Pokryshkina": {
+          "name": {
+            "en": "Marshala Pokryshkina",
+            "ru": "Маршала Покрышкина"
+          },
+          "lat": 55.043611,
+          "lon": 82.934889,
+          "depth": -10
+        },
+        "Sibirskaya": {
+          "name": {
+            "en": "Sibirskaya",
+            "ru": "Сибирская"
+          },
+          "lat": 55.042222,
+          "lon": 82.920897,
+          "depth": -10
+        },
+        "Ploshchad Garina-Mikhaylovskogo": {
+          "name": {
+            "en": "Ploshchad Garina-Mikhaylovskogo",
+            "ru": "Площадь Гарина-Михайловского"
+          },
+          "lat": 55.035278,
+          "lon": 82.898611,
+          "depth": -10
+        }
+      }
+    },
+    "samara": {
+      "lines": [
+        {
+          "name": {
+            "en": "First Line",
+            "ru": "Первая линия"
+          },
+          "color": "#e31e24",
+          "stations": [
+            "Alabinskaya",
+            "Rossiyskaya",
+            "Moskovskaya",
+            "Gagarinskaya",
+            "Sportivnaya",
+            "Sovetskaya",
+            "Pobeda",
+            "Bezymyanka",
+            "Kirovskaya",
+            "Yungorodok"
+          ]
+        }
+      ],
+      "stations": {
+        "Alabinskaya": {
+          "name": {
+            "en": "Alabinskaya",
+            "ru": "Алабинская"
+          },
+          "lat": 53.2311,
+          "lon": 50.2792,
+          "depth": -9.5
+        },
+        "Rossiyskaya": {
+          "name": {
+            "en": "Rossiyskaya",
+            "ru": "Российская"
+          },
+          "lat": 53.2333,
+          "lon": 50.2617,
+          "depth": -8
+        },
+        "Moskovskaya": {
+          "name": {
+            "en": "Moskovskaya",
+            "ru": "Московская"
+          },
+          "lat": 53.2356,
+          "lon": 50.2428,
+          "depth": -16
+        },
+        "Gagarinskaya": {
+          "name": {
+            "en": "Gagarinskaya",
+            "ru": "Гагаринская"
+          },
+          "lat": 53.2381,
+          "lon": 50.2306,
+          "depth": -17.5
+        },
+        "Sportivnaya": {
+          "name": {
+            "en": "Sportivnaya",
+            "ru": "Спортивная"
+          },
+          "lat": 53.2403,
+          "lon": 50.2253,
+          "depth": -8
+        },
+        "Sovetskaya": {
+          "name": {
+            "en": "Sovetskaya",
+            "ru": "Советская"
+          },
+          "lat": 53.2425,
+          "lon": 50.22,
+          "depth": -8
+        },
+        "Pobeda": {
+          "name": {
+            "en": "Pobeda",
+            "ru": "Победа"
+          },
+          "lat": 53.2447,
+          "lon": 50.2147,
+          "depth": -8
+        },
+        "Bezymyanka": {
+          "name": {
+            "en": "Bezymyanka",
+            "ru": "Безымянка"
+          },
+          "lat": 53.2472,
+          "lon": 50.2094,
+          "depth": -8
+        },
+        "Kirovskaya": {
+          "name": {
+            "en": "Kirovskaya",
+            "ru": "Кировская"
+          },
+          "lat": 53.2494,
+          "lon": 50.2042,
+          "depth": -12
+        },
+        "Yungorodok": {
+          "name": {
+            "en": "Yungorodok",
+            "ru": "Юнгородок"
+          },
+          "lat": 53.2517,
+          "lon": 50.1992,
+          "depth": 0
+        }
+      }
+    },
+    "kazan": {
+      "lines": [
+        {
+          "name": {
+            "en": "First Line",
+            "ru": "Первая линия"
+          },
+          "color": "#e31e24",
+          "stations": [
+            "Dubravnaya",
+            "Prospekt Pobedy",
+            "Gorki",
+            "Ametyevo",
+            "Sukonnaya Sloboda",
+            "Ploshchad Tukaya",
+            "Kremlyovskaya",
+            "Kozya Sloboda",
+            "Yashlek",
+            "Severny Vokzal",
+            "Aviastroitelnaya"
+          ]
+        }
+      ],
+      "stations": {
+        "Dubravnaya": {
+          "name": {
+            "en": "Dubravnaya",
+            "ru": "Дубравная"
+          },
+          "lat": 55.744034,
+          "lon": 49.219557,
+          "depth": -14
+        },
+        "Prospekt Pobedy": {
+          "name": {
+            "en": "Prospekt Pobedy",
+            "ru": "Проспект Победы"
+          },
+          "lat": 55.750056,
+          "lon": 49.208739,
+          "depth": -12
+        },
+        "Gorki": {
+          "name": {
+            "en": "Gorki",
+            "ru": "Горки"
+          },
+          "lat": 55.760218,
+          "lon": 49.190880,
+          "depth": -9
+        },
+        "Ametyevo": {
+          "name": {
+            "en": "Ametyevo",
+            "ru": "Аметьево"
+          },
+          "lat": 55.765170,
+          "lon": 49.166507,
+          "depth": 0
+        },
+        "Sukonnaya Sloboda": {
+          "name": {
+            "en": "Sukonnaya Sloboda",
+            "ru": "Суконная слобода"
+          },
+          "lat": 55.777099,
+          "lon": 49.142283,
+          "depth": -11
+        },
+        "Ploshchad Tukaya": {
+          "name": {
+            "en": "Ploshchad Tukaya",
+            "ru": "Площадь Тукая"
+          },
+          "lat": 55.786067,
+          "lon": 49.124549,
+          "depth": -18
+        },
+        "Kremlyovskaya": {
+          "name": {
+            "en": "Kremlyovskaya",
+            "ru": "Кремлёвская"
+          },
+          "lat": 55.795663,
+          "lon": 49.106358,
+          "depth": -21
+        },
+        "Kozya Sloboda": {
+          "name": {
+            "en": "Kozya Sloboda",
+            "ru": "Козья слобода"
+          },
+          "lat": 55.817470,
+          "lon": 49.098104,
+          "depth": -19
+        },
+        "Yashlek": {
+          "name": {
+            "en": "Yashlek",
+            "ru": "Яшьлек"
+          },
+          "lat": 55.828039,
+          "lon": 49.082483,
+          "depth": -17
+        },
+        "Severny Vokzal": {
+          "name": {
+            "en": "Severny Vokzal",
+            "ru": "Северный вокзал"
+          },
+          "lat": 55.841887,
+          "lon": 49.081985,
+          "depth": -15
+        },
+        "Aviastroitelnaya": {
+          "name": {
+            "en": "Aviastroitelnaya",
+            "ru": "Авиастроительная"
+          },
+          "lat": 55.855851,
+          "lon": 49.084498,
+          "depth": -14
+        }
+      }
+    }
+  }
+}
